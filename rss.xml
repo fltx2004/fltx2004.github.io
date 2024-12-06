@@ -21,9 +21,9 @@
             <webMaster>qyb@yydjtc.cn (风凌天下)</webMaster>
         
         
-            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+            <copyright>[风凌天下的博客](https://yydjtc.cn)</copyright>
         
-        <lastBuildDate>Fri, 06 Dec 2024 14:08:14 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 14:33:33 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://fltx2004.github.io/rss.xml" />
         
@@ -36,7 +36,7 @@
                 
                     <author>qyb@yydjtc.cn (风凌天下)</author>
                 
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                <copyright>[风凌天下的博客](https://yydjtc.cn)</copyright>
                 <description>&lt;h1 id=&#34;xiaomi-bootloader-questionnaire&#34;&gt;Xiaomi-BootLoader-Questionnaire&lt;/h1&gt;
 &lt;p&gt;小米 BootLoader《解锁资格答题测试》更新记录&lt;/p&gt;
 &lt;h2 id=&#34;提示--reminder&#34;&gt;提示 / Reminder&lt;/h2&gt;
@@ -24082,7 +24082,7 @@
                 
                     <author>qyb@yydjtc.cn (风凌天下)</author>
                 
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                <copyright>[风凌天下的博客](https://yydjtc.cn)</copyright>
                 <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;PS:无聊的碎碎念，不想看的可以按H到下一段。&lt;br&gt;
 相信mud游戏大家都玩过，石蟾老大的&lt;/p&gt;
@@ -24259,7 +24259,7 @@ new&lt;br&gt;
                 
                     <author>qyb@yydjtc.cn (风凌天下)</author>
                 
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                <copyright>[风凌天下的博客](https://yydjtc.cn)</copyright>
                 <description>&lt;p&gt;今天来说说NVDA远程服务器在linux的搭建，windows自行看说明研究。&lt;br&gt;
 主要是针对debian、ubuntu等系统，centOS的大同小异。&lt;/p&gt;
 &lt;h2 id=&#34;学习之前&#34;&gt;学习之前&lt;/h2&gt;
@@ -24661,7 +24661,7 @@ check-cert-update.service&lt;br&gt;
                 
                     <author>qyb@yydjtc.cn (风凌天下)</author>
                 
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                <copyright>[风凌天下的博客](https://yydjtc.cn)</copyright>
                 <description>&lt;p&gt;这里我主要说说linux teamtalk服务器的配置，windows也会顺便说一下。&lt;/p&gt;
 &lt;h2 id=&#34;下载teamtalk&#34;&gt;下载Teamtalk:&lt;/h2&gt;
 &lt;p&gt;首先要下载Teamtalk，可以从&lt;a href=&#34;https://bearware.dk/?page_id=353&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bearware&lt;/a&gt;下载。&lt;br&gt;

@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">风凌天下的博客</title>
     <subtitle type="html">一个随心所欲的个人博客</subtitle>
-    <updated>2024-12-06T14:08:14&#43;08:00</updated>
+    <updated>2024-12-06T14:33:33&#43;08:00</updated>
     <id>https://fltx2004.github.io/</id>
     <link rel="alternate" type="text/html" href="https://fltx2004.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://fltx2004.github.io/atom.xml" />
@@ -14,7 +14,7 @@
             
                 <email>qyb@yydjtc.cn</email>
             </author>
-    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <rights>[风凌天下的博客](https://yydjtc.cn)</rights>
     <generator uri="https://gohugo.io/" version="0.139.2">Hugo</generator>
         <entry>
             <title type="text">小米Boot Loader《解锁资格答题测试》</title>
@@ -27,7 +27,7 @@
                     <uri>https://yydjtc.cn/</uri>
                     <email>qyb@yydjtc.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            <rights>[风凌天下的博客](https://yydjtc.cn)</rights><summary type="html"></summary>
             
                 <content type="html">&lt;h1 id=&#34;xiaomi-bootloader-questionnaire&#34;&gt;Xiaomi-BootLoader-Questionnaire&lt;/h1&gt;
 &lt;p&gt;小米 BootLoader《解锁资格答题测试》更新记录&lt;/p&gt;
@@ -24077,7 +24077,7 @@
                     <uri>https://yydjtc.cn/</uri>
                     <email>qyb@yydjtc.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            <rights>[风凌天下的博客](https://yydjtc.cn)</rights><summary type="html"></summary>
             
                 <content type="html">&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;PS:无聊的碎碎念，不想看的可以按H到下一段。&lt;br&gt;
@@ -24258,7 +24258,7 @@ new&lt;br&gt;
                     <uri>https://yydjtc.cn/</uri>
                     <email>qyb@yydjtc.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            <rights>[风凌天下的博客](https://yydjtc.cn)</rights><summary type="html"></summary>
             
                 <content type="html">&lt;p&gt;今天来说说NVDA远程服务器在linux的搭建，windows自行看说明研究。&lt;br&gt;
 主要是针对debian、ubuntu等系统，centOS的大同小异。&lt;/p&gt;
@@ -24664,7 +24664,7 @@ check-cert-update.service&lt;br&gt;
                     <uri>https://yydjtc.cn/</uri>
                     <email>qyb@yydjtc.cn</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"></summary>
+            <rights>[风凌天下的博客](https://yydjtc.cn)</rights><summary type="html"></summary>
             
                 <content type="html">&lt;p&gt;这里我主要说说linux teamtalk服务器的配置，windows也会顺便说一下。&lt;/p&gt;
 &lt;h2 id=&#34;下载teamtalk&#34;&gt;下载Teamtalk:&lt;/h2&gt;
