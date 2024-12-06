@@ -2,30 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fltx2004.github.io/tags/</loc>
-    <lastmod>2024-11-29T17:43:58+08:00</lastmod>
+    <loc>https://fltx2004.github.io/categories/</loc>
+    <lastmod>2024-12-06T10:02:01+08:00</lastmod>
+  </url><url>
+    <loc>https://fltx2004.github.io/post/</loc>
+    <lastmod>2024-12-06T10:02:01+08:00</lastmod>
   </url><url>
     <loc>https://fltx2004.github.io/</loc>
-    <lastmod>2024-11-29T17:43:58+08:00</lastmod>
+    <lastmod>2024-12-06T10:02:01+08:00</lastmod>
   </url><url>
-    <loc>https://fltx2004.github.io/posts/</loc>
-    <lastmod>2024-11-29T17:12:28+08:00</lastmod>
+    <loc>https://fltx2004.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2024-12-06T10:02:01+08:00</lastmod>
   </url><url>
-    <loc>https://fltx2004.github.io/posts/xmbl/</loc>
-    <lastmod>2024-11-29T17:09:20+08:00</lastmod>
+    <loc>https://fltx2004.github.io/post/xmbl/</loc>
+    <lastmod>2024-12-06T09:59:34+08:00</lastmod>
   </url><url>
-    <loc>https://fltx2004.github.io/posts/miriani/</loc>
-    <lastmod>2024-11-29T17:12:07+08:00</lastmod>
+    <loc>https://fltx2004.github.io/tags/miriani/</loc>
+    <lastmod>2024-12-06T10:00:12+08:00</lastmod>
   </url><url>
-    <loc>https://fltx2004.github.io/posts/nrs/</loc>
-    <lastmod>2024-11-29T17:12:28+08:00</lastmod>
+    <loc>https://fltx2004.github.io/tags/mud/</loc>
+    <lastmod>2024-12-06T10:00:12+08:00</lastmod>
   </url><url>
-    <loc>https://fltx2004.github.io/posts/ttsrv/</loc>
-    <lastmod>2024-11-29T17:10:22+08:00</lastmod>
+    <loc>https://fltx2004.github.io/tags/</loc>
+    <lastmod>2024-12-06T10:02:01+08:00</lastmod>
+  </url><url>
+    <loc>https://fltx2004.github.io/post/miriani/</loc>
+    <lastmod>2024-12-06T10:00:12+08:00</lastmod>
+  </url><url>
+    <loc>https://fltx2004.github.io/categories/%E6%B8%B8%E6%88%8F%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2024-12-06T10:00:12+08:00</lastmod>
+  </url><url>
+    <loc>https://fltx2004.github.io/tags/linux/</loc>
+    <lastmod>2024-12-06T10:02:01+08:00</lastmod>
+  </url><url>
+    <loc>https://fltx2004.github.io/tags/nvda/</loc>
+    <lastmod>2024-12-06T10:02:01+08:00</lastmod>
+  </url><url>
+    <loc>https://fltx2004.github.io/post/nrs/</loc>
+    <lastmod>2024-12-06T10:02:01+08:00</lastmod>
+  </url><url>
+    <loc>https://fltx2004.github.io/tags/teamtalk/</loc>
+    <lastmod>2024-12-06T09:58:12+08:00</lastmod>
+  </url><url>
+    <loc>https://fltx2004.github.io/post/ttsrv/</loc>
+    <lastmod>2024-12-06T09:58:12+08:00</lastmod>
   </url><url>
     <loc>https://fltx2004.github.io/about/</loc>
     <lastmod>2024-11-29T17:33:11+08:00</lastmod>
-  </url><url>
-    <loc>https://fltx2004.github.io/categories/</loc>
   </url>
 </urlset>

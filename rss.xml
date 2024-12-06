@@ -9,7 +9,7 @@
     <channel>
         <title>风凌天下的博客</title>
         <link>https://fltx2004.github.io/</link>
-        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <description>一个随心所欲的个人博客</description>
         <generator>Hugo 0.139.2 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Fri, 06 Dec 2024 09:19:19 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 14:03:15 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://fltx2004.github.io/rss.xml" />
         
         
             <item>
                 <title>小米Boot Loader《解锁资格答题测试》</title>
-                <link>https://fltx2004.github.io/posts/xmbl/</link>
-                <guid isPermaLink="true">https://fltx2004.github.io/posts/xmbl/</guid>
+                <link>https://fltx2004.github.io/post/xmbl/</link>
+                <guid isPermaLink="true">https://fltx2004.github.io/post/xmbl/</guid>
                 <pubDate>Thu, 28 Nov 2024 21:09:04 &#43;0800</pubDate>
                 
                     <author>qyb@yydjtc.cn (风凌天下)</author>
@@ -24060,6 +24060,14 @@
                 
                     
                         
+                            
+                                
+                                
+                                
+                                    <category domain="https://fltx2004.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/">经验分享</category>
+                                
+                            
+                        
                     
                         
                     
@@ -24068,38 +24076,38 @@
         
             <item>
                 <title>推荐太空战略mud游戏：miriani!</title>
-                <link>https://fltx2004.github.io/posts/miriani/</link>
-                <guid isPermaLink="true">https://fltx2004.github.io/posts/miriani/</guid>
+                <link>https://fltx2004.github.io/post/miriani/</link>
+                <guid isPermaLink="true">https://fltx2004.github.io/post/miriani/</guid>
                 <pubDate>Thu, 28 Nov 2024 21:08:54 &#43;0800</pubDate>
                 
                     <author>qyb@yydjtc.cn (风凌天下)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
-&lt;p&gt;PS:无聊的碎碎念，不想看的可以按H到下一段。
+&lt;p&gt;PS:无聊的碎碎念，不想看的可以按H到下一段。&lt;br&gt;
 相信mud游戏大家都玩过，石蟾老大的&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;大唐商人&lt;/li&gt;
 &lt;li&gt;双雕傲江湖&lt;/li&gt;
 &lt;li&gt;斗魂&lt;/li&gt;
-&lt;li&gt;丛林冒险
+&lt;li&gt;丛林冒险&lt;br&gt;
 以及玉龙的&lt;/li&gt;
 &lt;li&gt;剑影情缘&lt;/li&gt;
-&lt;li&gt;神秘大逃亡
-等，这些都是用mud写的。
-相信这是早期多数盲人首先接触的游戏类型，我也不例外，我玩的第一款游戏就是大唐商人，当时新奇的游戏体验让我欲罢不能。
+&lt;li&gt;神秘大逃亡&lt;br&gt;
+等，这些都是用mud写的。&lt;br&gt;
+相信这是早期多数盲人首先接触的游戏类型，我也不例外，我玩的第一款游戏就是大唐商人，当时新奇的游戏体验让我欲罢不能。&lt;br&gt;
 那么后来为什么mud游戏逐渐弹出了我们的视野呢？有几个原因：&lt;/li&gt;
 &lt;li&gt;mud游戏源码不会被加密，所以修改起来十分容易，想想花了一年半载做的游戏，改了数据之后几十分钟通关了，这对游戏开发者的打击是巨大的；&lt;/li&gt;
 &lt;li&gt;mud游戏归根结底也是个文字游戏，况且当时多数mud游戏都是采用的离线模式，导致玩法不够多样化，游戏形式不够灵活；&lt;/li&gt;
-&lt;li&gt;国内出现了一大堆盲人网游，且多数支持手机端，推广的比较好，加上操作足够简单，获得了大量的玩家的青睐。
-那么，有人就说了，现在都2024年了，谁还玩mud游戏啊，都是文字，现在国内网游不是很好玩吗？
-我刚听说盲人网游之后我也兴冲冲的去玩了很久，不过随着时间的推移，我逐渐厌倦了国内的盲人网游，到现在几乎不碰了。
-具体就是，国内网游充钱的就是大佬，让我这种贫民玩家实在扛不住，玩游戏，玩的就是个快乐，不是上去被虐的，加上一些做游戏的公司吃相足够难看；
-傻瓜式操作，一点技术含量都没有，玩都能玩睡着；
-主要侧重于移动端，我一个重度电脑用户，实在不习惯报这个手机玩。
-基于以上原因，我对国内的网游心灰意冷。
-那么为什么会选择玩mud游戏呢？
-首先我们要重新认识mud游戏，诚然，mud游戏在脱机模式下很容易被修改，但是mud游戏作为一个网游可玩性还是很高的，无论是强大的别名系统、随机事件的触发、身临其境的环境描述等，都让我重新认识了mud游戏。
+&lt;li&gt;国内出现了一大堆盲人网游，且多数支持手机端，推广的比较好，加上操作足够简单，获得了大量的玩家的青睐。&lt;br&gt;
+那么，有人就说了，现在都2024年了，谁还玩mud游戏啊，都是文字，现在国内网游不是很好玩吗？&lt;br&gt;
+我刚听说盲人网游之后我也兴冲冲的去玩了很久，不过随着时间的推移，我逐渐厌倦了国内的盲人网游，到现在几乎不碰了。&lt;br&gt;
+具体就是，国内网游充钱的就是大佬，让我这种贫民玩家实在扛不住，玩游戏，玩的就是个快乐，不是上去被虐的，加上一些做游戏的公司吃相足够难看；&lt;br&gt;
+傻瓜式操作，一点技术含量都没有，玩都能玩睡着；&lt;br&gt;
+主要侧重于移动端，我一个重度电脑用户，实在不习惯报这个手机玩。&lt;br&gt;
+基于以上原因，我对国内的网游心灰意冷。&lt;br&gt;
+那么为什么会选择玩mud游戏呢？&lt;br&gt;
+首先我们要重新认识mud游戏，诚然，mud游戏在脱机模式下很容易被修改，但是mud游戏作为一个网游可玩性还是很高的，无论是强大的别名系统、随机事件的触发、身临其境的环境描述等，都让我重新认识了mud游戏。&lt;br&gt;
 2021年我首次接触了国外的mud游戏&amp;quot;miriani&amp;quot;，丰富的环境描述、优质的音效、完善的背景故事让我欲罢不能。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;什么人适合miriani&#34;&gt;什么人适合miriani?&lt;/h2&gt;
@@ -24118,72 +24126,72 @@
 &lt;li&gt;不喜欢mud游戏的&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;玩之前&#34;&gt;玩之前&lt;/h2&gt;
-&lt;p&gt;你不需要很好的英文，事实上多数都能用翻译解决，当然有一定英文基础，上手游戏会轻松的多；
+&lt;p&gt;你不需要很好的英文，事实上多数都能用翻译解决，当然有一定英文基础，上手游戏会轻松的多；&lt;br&gt;
 不要过度依赖翻译，这里只的是对某些不必要的翻译，比如游戏的环境描述，可以行走的方向，敌人的位置坐标等等，如果你第一次到这里，出于好奇，可以翻一下环境描述，但当你多次来到同一个地方，环境描述的翻译就是不必要的，行走的方向也是如此，听的多了自然而然的就知道了，不需要知道单词如何拼写，听单词的读法就足够了，敌人坐标也是这样，听数字就行，英文的部分根本不需要翻译，这只会拖慢你的速度。&lt;/p&gt;
 &lt;h2 id=&#34;miriani简介&#34;&gt;miriani简介&lt;/h2&gt;
-&lt;p&gt;什么事miriani？
-&lt;a href=&#34;https://www.toastsoft.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;miriani官网&lt;/a&gt; 是这么介绍的：
-Miriani 是一款多人在线角色扮演游戏，在其中你将扮演一名星际飞船的驾驶员。你的目标很简单，就是通过各种可能的方式为自己谋生。你可以选择成为海盗，抢劫其他玩家；也可以保护人类空间免受已知外星威胁；或者从事一些平凡的活动来赚取积分，甚至以上几种方式结合起来都行。在 Miriani 中，你的人生由你决定。
-同样地，游戏开放性的特点意味着玩家可以随时发动攻击。因此，当海盗来袭时，你必须做好防御自己的准备，并保护你的联盟。建议与其他玩家结盟、阅读防御手册、在模拟器中练习、讨论战术（有许多不同的武器和技术可供使用），并熟悉所有可用的科技。这些都是作为星际飞船驾驶员生活的一部分！
-请记住，这款游戏尚未完成。我们一直在进行修改，这可能会导致某些时候出现不稳定情况，因为需要不断调整平衡。希望你能坚持下去，与我们一起让 Miriani 变得更好。
+&lt;p&gt;什么事miriani？&lt;br&gt;
+&lt;a href=&#34;https://www.toastsoft.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;miriani官网&lt;/a&gt; 是这么介绍的：&lt;br&gt;
+Miriani 是一款多人在线角色扮演游戏，在其中你将扮演一名星际飞船的驾驶员。你的目标很简单，就是通过各种可能的方式为自己谋生。你可以选择成为海盗，抢劫其他玩家；也可以保护人类空间免受已知外星威胁；或者从事一些平凡的活动来赚取积分，甚至以上几种方式结合起来都行。在 Miriani 中，你的人生由你决定。&lt;br&gt;
+同样地，游戏开放性的特点意味着玩家可以随时发动攻击。因此，当海盗来袭时，你必须做好防御自己的准备，并保护你的联盟。建议与其他玩家结盟、阅读防御手册、在模拟器中练习、讨论战术（有许多不同的武器和技术可供使用），并熟悉所有可用的科技。这些都是作为星际飞船驾驶员生活的一部分！&lt;br&gt;
+请记住，这款游戏尚未完成。我们一直在进行修改，这可能会导致某些时候出现不稳定情况，因为需要不断调整平衡。希望你能坚持下去，与我们一起让 Miriani 变得更好。&lt;br&gt;
 您也可以再此查看 &lt;a href=&#34;http://toastsoft.net/privacy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;miriani的隐私政策&lt;/a&gt;。&lt;/p&gt;
 &lt;h2 id=&#34;注意&#34;&gt;注意&lt;/h2&gt;
 &lt;p&gt;miriani是重度角色扮演游戏，在游戏的general、chat，say等频道中，都不要谈及现实，否则你可能面临聊天呗禁止等情况，具体可以参见 &lt;a href=&#34;https://miriani.toastsoft.net/policy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;miriani政策&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;如何安装&#34;&gt;如何安装&lt;/h2&gt;
 &lt;p&gt;下面来简单说一下miriani的安装方法，比较复杂，我们慢慢说。&lt;/p&gt;
 &lt;h3 id=&#34;安装前准备&#34;&gt;安装前准备&lt;/h3&gt;
-&lt;p&gt;首先，要玩这个游戏，你就得需要个 &lt;a href=&#34;https://www.gmagames.com/vipmud20016.exe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VIPMud&lt;/a&gt;,安装的时候务必关掉杀毒软件，否则会被误报。
-这个mud客户端不支持在中文环境下运行，所以你还需要一个&lt;a href=&#34;https://github.com/xupefei/Locale-Emulator/releases/latest/Locale.Emulator.2.5.0.1.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;语言模拟器&lt;/a&gt;，这个游戏通过&lt;a href=&#34;https://www.nvaccess.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NVDA&lt;/a&gt;进行朗读，所以NVDA也是必须的。为了运行里面的一个小脚本，以便减少延迟，增加一些方便的命令，还要一个&lt;a href=&#34;https://nodejs.org/dist/v22.3.0/node-v22.3.0-x64.msi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;node.js&lt;/a&gt;。
-是不是听起来很多，多就对了，不过我会把这些工具都放在这个页面里，跟着说明走，一步一步来安装。
+&lt;p&gt;首先，要玩这个游戏，你就得需要个 &lt;a href=&#34;https://www.gmagames.com/vipmud20016.exe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VIPMud&lt;/a&gt;,安装的时候务必关掉杀毒软件，否则会被误报。&lt;br&gt;
+这个mud客户端不支持在中文环境下运行，所以你还需要一个&lt;a href=&#34;https://github.com/xupefei/Locale-Emulator/releases/latest/Locale.Emulator.2.5.0.1.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;语言模拟器&lt;/a&gt;，这个游戏通过&lt;a href=&#34;https://www.nvaccess.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NVDA&lt;/a&gt;进行朗读，所以NVDA也是必须的。为了运行里面的一个小脚本，以便减少延迟，增加一些方便的命令，还要一个&lt;a href=&#34;https://nodejs.org/dist/v22.3.0/node-v22.3.0-x64.msi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;node.js&lt;/a&gt;。&lt;br&gt;
+是不是听起来很多，多就对了，不过我会把这些工具都放在这个页面里，跟着说明走，一步一步来安装。&lt;br&gt;
 建议把整个文件夹解压到磁盘根目录，避免有中文。&lt;/p&gt;
 &lt;h3 id=&#34;安装nodejs&#34;&gt;安装node.js&lt;/h3&gt;
-&lt;p&gt;没啥好说的，找到那个msi安装包，一路下一步安装即可。
-如果电脑里有，就忽略这一步。
-进入Miriani Soundpack for VIP Mud这个文件夹，找到Proxiani进入，首先运行
-Enable Auto Start.vbs
-，会有个对话框，翻译过来就是已添加到自启动，当然这是我的做法，因为如果你玩miriani最好还是运行一下它，这样就会自动启动，也免得有时候忘记开。
-在按行尾到最后一个，
-Start.vbs
+&lt;p&gt;没啥好说的，找到那个msi安装包，一路下一步安装即可。&lt;br&gt;
+如果电脑里有，就忽略这一步。&lt;br&gt;
+进入Miriani Soundpack for VIP Mud这个文件夹，找到Proxiani进入，首先运行&lt;br&gt;
+Enable Auto Start.vbs&lt;br&gt;
+，会有个对话框，翻译过来就是已添加到自启动，当然这是我的做法，因为如果你玩miriani最好还是运行一下它，这样就会自动启动，也免得有时候忘记开。&lt;br&gt;
+在按行尾到最后一个，&lt;br&gt;
+Start.vbs&lt;br&gt;
 ，运行，也会有个对话框，意思就是已经启动，如果你前面添加了自启动，那么当你第二次开机的时候就不用运行这个start.vbs了。&lt;/p&gt;
 &lt;h3 id=&#34;安装语言模拟器&#34;&gt;安装语言模拟器&lt;/h3&gt;
-&lt;p&gt;解压这个
-Locale.Emulator.2.5.0.1.zip
-，运行
-LEInstaller.exe
+&lt;p&gt;解压这个&lt;br&gt;
+Locale.Emulator.2.5.0.1.zip&lt;br&gt;
+，运行&lt;br&gt;
+LEInstaller.exe&lt;br&gt;
 ，四六键找到为所有用户安装，其实你为当前用户安装我也没啥意见，只是习惯所有用户安装，好了，安装完之后，你就会发现右键菜单里多了个Locale Emulator 有子菜单，这就是语言模拟器的菜单了，后面说用法。记着刚刚解压的这个文件夹不要删，这语言模拟器严谨一点说是绿色版的，安装只是在右键菜单添加了一个项目。&lt;/p&gt;
 &lt;h3 id=&#34;安装vipmud&#34;&gt;安装VIPMud&lt;/h3&gt;
 &lt;p&gt;运行vipmud20016.exe，啥，你说你下载了却消失了，赶紧重新下载一份，记住下载之前关掉杀毒软件，火荣也会报读的，放心安装，绝对无毒，关掉杀软，安装VIPMud，安装界面英文，怎么安装就不说了，装好之后，你就可以打开你的杀软了，这里火荣不会在报读了,可以继续下一步。&lt;/p&gt;
 &lt;h3 id=&#34;配置语言模拟器&#34;&gt;配置语言模拟器&lt;/h3&gt;
-&lt;p&gt;打开NVDA，没有的话自行去 &lt;a href=&#34;https://www.nvdacn.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nvdacn.com&lt;/a&gt; 下载,这里推荐&lt;a href=&#34;https://www.nvdacn.com/index.php/archives/894&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NVDA懒人版&lt;/a&gt;，找到VIPMud，按右键，找到Locale Emulator 有子菜单，展开，找到
-修改此程序的配置
-，回车，tab切，找到组合框 日语(日本)，按行尾，网上找吧，会有一大堆英语，我一般用一大堆英语中最上面的那个，就叫英语，tab有个
-管理员身份运行建议勾选
+&lt;p&gt;打开NVDA，没有的话自行去 &lt;a href=&#34;https://www.nvdacn.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nvdacn.com&lt;/a&gt; 下载,这里推荐&lt;a href=&#34;https://www.nvdacn.com/index.php/archives/894&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NVDA懒人版&lt;/a&gt;，找到VIPMud，按右键，找到Locale Emulator 有子菜单，展开，找到&lt;br&gt;
+修改此程序的配置&lt;br&gt;
+，回车，tab切，找到组合框 日语(日本)，按行尾，网上找吧，会有一大堆英语，我一般用一大堆英语中最上面的那个，就叫英语，tab有个&lt;br&gt;
+管理员身份运行建议勾选&lt;br&gt;
 ，在tab，找到建立快捷方式空格，在tab找保存空格。快捷方式会生成到桌面，你也可以把这个快捷方式重命名，这快捷方式有啥用呢，这个快捷方式的用处就是以后在运行VIPMud 的时候会自动通过语言模拟器模拟 英语语言环境运行，以免每次运行VIPMud都要在右键菜单中找已此程序配置运行。&lt;/p&gt;
 &lt;h3 id=&#34;下载miriani声音包&#34;&gt;下载miriani声音包&lt;/h3&gt;
-&lt;p&gt;可以从&lt;a href=&#34;https://www.dropbox.com/sh/q6xtsxcyjz4t8dd/AACih96CNTVU9xKB8Qr6XfGba?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;miriani的dropbox页面&lt;/a&gt;下载它的声音包，如果无法下载，还可以&lt;a href=&#34;https://www.yydjtc.top/download/Miriani%20Soundpack%20for%20VIP%20Mud%20Download%20Folder.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;点此本地下载&lt;/a&gt;或&lt;a href=&#34;https://www.123pan.com/s/egE9-Q91Jv.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;123云盘下载&lt;/a&gt;
+&lt;p&gt;可以从&lt;a href=&#34;https://www.dropbox.com/sh/q6xtsxcyjz4t8dd/AACih96CNTVU9xKB8Qr6XfGba?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;miriani的dropbox页面&lt;/a&gt;下载它的声音包，如果无法下载，还可以&lt;a href=&#34;https://www.yydjtc.top/download/Miriani%20Soundpack%20for%20VIP%20Mud%20Download%20Folder.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;点此本地下载&lt;/a&gt;或&lt;a href=&#34;https://www.123pan.com/s/egE9-Q91Jv.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;123云盘下载&lt;/a&gt;&lt;br&gt;
 注意，dropbox页面能保持最新，本地下载和云盘下载无法保证一直是最新版本的。&lt;/p&gt;
 &lt;h3 id=&#34;输入连接信息&#34;&gt;输入连接信息&lt;/h3&gt;
-&lt;p&gt;打开之后，你就会发现，你的sapi语音开始说话了，会有个yes no的按钮，这意思就是没有VIPMud文件夹，是否创建，我们当然创建，如果你点了yes之后提示错误，最大的可能性就是你的用户是中文名字，这里无法读取，所以才报错
-接着会问你是否有以前的vipmud文件夹，我们选no，在点确定，这样文件夹就创建了，后面就是有是就选是，有确定就点确定，到了有编辑框的地方可以随便书一些字母数字，点确定，这里是注册码，你如果随便输入一些什么也会给你通过的，点确定，这时会有个列表，下光标找到scream reader回车，在点掉确定就到了列表了。
-是不是听起来很乱，没办法，这里就会出一大堆确定，可以听听录音。
-然后按ctrl+a，会有一些编辑框，读屏都不会读标签的，我们能用得上的就是列表前两个，列表后三个，我们按完ctrl+a之后，停留的编辑框，是列表往前两个，在这里输入这个显示的名称，不要中文，也不要叫miriani，可以随便血点，几个字符就可以，在这里写好了，tab切一下，发现下一个编辑框也有了，tab到列表，这里不要动，在切一下，到了列表后第一个编辑框，这里面输入：
-miriani
-在往下切，这里输入
-localhost
-，如果不行就输入
-127.0.0.1
-,在往下切，输入
-1234
+&lt;p&gt;打开之后，你就会发现，你的sapi语音开始说话了，会有个yes no的按钮，这意思就是没有VIPMud文件夹，是否创建，我们当然创建，如果你点了yes之后提示错误，最大的可能性就是你的用户是中文名字，这里无法读取，所以才报错&lt;br&gt;
+接着会问你是否有以前的vipmud文件夹，我们选no，在点确定，这样文件夹就创建了，后面就是有是就选是，有确定就点确定，到了有编辑框的地方可以随便书一些字母数字，点确定，这里是注册码，你如果随便输入一些什么也会给你通过的，点确定，这时会有个列表，下光标找到scream reader回车，在点掉确定就到了列表了。&lt;br&gt;
+是不是听起来很乱，没办法，这里就会出一大堆确定，可以听听录音。&lt;br&gt;
+然后按ctrl+a，会有一些编辑框，读屏都不会读标签的，我们能用得上的就是列表前两个，列表后三个，我们按完ctrl+a之后，停留的编辑框，是列表往前两个，在这里输入这个显示的名称，不要中文，也不要叫miriani，可以随便血点，几个字符就可以，在这里写好了，tab切一下，发现下一个编辑框也有了，tab到列表，这里不要动，在切一下，到了列表后第一个编辑框，这里面输入：&lt;br&gt;
+miriani&lt;br&gt;
+在往下切，这里输入&lt;br&gt;
+localhost&lt;br&gt;
+，如果不行就输入&lt;br&gt;
+127.0.0.1&lt;br&gt;
+,在往下切，输入&lt;br&gt;
+1234&lt;br&gt;
 ，好了切到确定空格吧，然后我们连接一次，在列表中找到我们刚刚创建的那个，对，就是带miriani的，回车，等会就有文字了，听到welcome啥的，一大堆英文，好了这时候关掉VIPMud,来连接脚本和声音包。&lt;/p&gt;
 &lt;h3 id=&#34;连接脚本和声音包&#34;&gt;连接脚本和声音包&lt;/h3&gt;
-&lt;p&gt;解压所有的压缩包，注意把脚本文件和声音包放在无中文的目录下，比如我在d盘根目录建立了一个miriani的文件夹，把这两个文件夹扔在里面。
-1、进入Miriani Soundpack for VIP Mud，找到Initiate the soundpack setup.bat，回车，按读屏浏览命令行的快捷键，应该会有Would you like to install the Miriani soundpack for VIP Mud 2.0 now? [Y/N]，当然按y，回车，在往下找，应该就说完成之类的，回车就关掉了，这里还有一种情况，我们稍后再说。
-2、然后进入Miriani Soundpack Sounds，找Link the sounds and themes folders.bat，回车，看到有Done! The paths to the Soundpack Sounds and Themes folders have been added to your soundpack configuration.，就成功了，这时，就可以打开VIPMud唱完了。
+&lt;p&gt;解压所有的压缩包，注意把脚本文件和声音包放在无中文的目录下，比如我在d盘根目录建立了一个miriani的文件夹，把这两个文件夹扔在里面。&lt;br&gt;
+1、进入Miriani Soundpack for VIP Mud，找到Initiate the soundpack setup.bat，回车，按读屏浏览命令行的快捷键，应该会有Would you like to install the Miriani soundpack for VIP Mud 2.0 now? [Y/N]，当然按y，回车，在往下找，应该就说完成之类的，回车就关掉了，这里还有一种情况，我们稍后再说。&lt;br&gt;
+2、然后进入Miriani Soundpack Sounds，找Link the sounds and themes folders.bat，回车，看到有Done! The paths to the Soundpack Sounds and Themes folders have been added to your soundpack configuration.，就成功了，这时，就可以打开VIPMud唱完了。&lt;br&gt;
 3、下面说另一种情况，如果在运行Initiate the soundpack setup.bat的时候提示错误，就要把这个文件放到VIPMud的miriani目录中，miriani就在文档的VIPMud中，放到这里面，这时候运行这个复制过来的文件，操作方法同上，然后需要回到Miriani Soundpack Sounds文件夹，运行Link the scripts for VIP Mud 2.0.bat，按着提示操作，连接好之后，去看2.&lt;/p&gt;
 &lt;h2 id=&#34;注册&#34;&gt;注册&lt;/h2&gt;
-&lt;p&gt;登录的时候输入
-new
-就可以了。
+&lt;p&gt;登录的时候输入&lt;br&gt;
+new&lt;br&gt;
+就可以了。&lt;br&gt;
 游戏内所有指令都可以简化。例如东(east)就可以简化成e，其他方向以此类推，look简化成l，get简化成g，这已经方便我们输入了。&lt;/p&gt;
 &lt;h2 id=&#34;安装录音&#34;&gt;安装录音&lt;/h2&gt;
 &lt;p&gt;可以听听我路的安装配置miriani的录音，做个参考。&lt;/p&gt;
@@ -24205,8 +24213,9 @@ new
         hideControlsAndPlay(randomOggPlayer);
     });
 &lt;/script&gt;
-## 加群交流
-遇到什么问题可以加入[miriani讨论群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&amp;k=YlsEPvNlqMayZ2RQx8I_NGvye_wQq6P3&amp;authKey=%2F88aPkc06XHik23WfcIjz1QsyZVdeiMDz7wBYuxAOJ%2FdMyuhZqBQ696qymGv9M%2Bl&amp;noverify=0&amp;group_code=325265659)一起讨论，群里也有玩家写的游戏活动的文字教程，方便新手。不过还是建议多看游戏帮助，可以在游戏内输入help查看帮助的分类，或者help空格加上相对应的帮助条目，或者在[miriani官网的帮助页面](https://miriani.toastsoft.net/help)查看帮助。</description>
+&lt;h2 id=&#34;加群交流&#34;&gt;加群交流&lt;/h2&gt;
+&lt;p&gt;遇到什么问题可以加入&lt;a href=&#34;http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&amp;amp;k=YlsEPvNlqMayZ2RQx8I_NGvye_wQq6P3&amp;amp;authKey=%2F88aPkc06XHik23WfcIjz1QsyZVdeiMDz7wBYuxAOJ%2FdMyuhZqBQ696qymGv9M%2Bl&amp;amp;noverify=0&amp;amp;group_code=325265659&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;miriani讨论群&lt;/a&gt;一起讨论，群里也有玩家写的游戏活动的文字教程，方便新手。不过还是建议多看游戏帮助，可以在游戏内输入help查看帮助的分类，或者help空格加上相对应的帮助条目，或者在&lt;a href=&#34;https://miriani.toastsoft.net/help&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;miriani官网的帮助页面&lt;/a&gt;查看帮助。&lt;/p&gt;
+</description>
                 
                 
                 
@@ -24214,7 +24223,29 @@ new
                 
                     
                         
+                            
+                                
+                                
+                                
+                                    <category domain="https://fltx2004.github.io/categories/%E6%B8%B8%E6%88%8F%E5%88%86%E4%BA%AB/">游戏分享</category>
+                                
+                            
+                        
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://fltx2004.github.io/tags/miriani/">miriani</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fltx2004.github.io/tags/mud/">mud</category>
+                                
+                            
                         
                     
                 
@@ -24222,14 +24253,14 @@ new
         
             <item>
                 <title>nvda远程服务器在linux的搭建</title>
-                <link>https://fltx2004.github.io/posts/nrs/</link>
-                <guid isPermaLink="true">https://fltx2004.github.io/posts/nrs/</guid>
+                <link>https://fltx2004.github.io/post/nrs/</link>
+                <guid isPermaLink="true">https://fltx2004.github.io/post/nrs/</guid>
                 <pubDate>Thu, 28 Nov 2024 21:08:39 &#43;0800</pubDate>
                 
                     <author>qyb@yydjtc.cn (风凌天下)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                <description>&lt;p&gt;今天来说说NVDA远程服务器在linux的搭建，windows自行看说明研究。
+                <description>&lt;p&gt;今天来说说NVDA远程服务器在linux的搭建，windows自行看说明研究。&lt;br&gt;
 主要是针对debian、ubuntu等系统，centOS的大同小异。&lt;/p&gt;
 &lt;h2 id=&#34;学习之前&#34;&gt;学习之前&lt;/h2&gt;
 &lt;p&gt;你需要掌握&lt;/p&gt;
@@ -24239,27 +24270,41 @@ new
 &lt;li&gt;魔法{非必须}&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;获取文件&#34;&gt;获取文件&lt;/h2&gt;
-&lt;p&gt;可以从&lt;a href=&#34;https://github.com/tech10/nvdaRemoteServer/releases/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NVDARemoteServer的release页面&lt;/a&gt;找到最新版本的文件，通常，linux64位的就下载&lt;a href=&#34;https://github.com/tech10/nvdaRemoteServer/releases/latest/download/nvdaRemoteServer_linux_amd64.tar.gz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nvdaRemoteServer_linux_amd64.tar.gz&lt;/a&gt;，32位就下载386的，arm处理器的就选择带arm的，这里不再赘述。
+&lt;p&gt;可以从&lt;a href=&#34;https://github.com/tech10/nvdaRemoteServer/releases/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NVDARemoteServer的release页面&lt;/a&gt;找到最新版本的文件，通常，linux64位的就下载&lt;a href=&#34;https://github.com/tech10/nvdaRemoteServer/releases/latest/download/nvdaRemoteServer_linux_amd64.tar.gz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nvdaRemoteServer_linux_amd64.tar.gz&lt;/a&gt;，32位就下载386的，arm处理器的就选择带arm的，这里不再赘述。&lt;br&gt;
 如只是想安装，不想要那么多自定义功能，或者只想直接使用，下载困难，可从文末下载。&lt;/p&gt;
 &lt;h2 id=&#34;解压相关文件并赋予权限&#34;&gt;解压相关文件并赋予权限&lt;/h2&gt;
 &lt;p&gt;我们仍使用&lt;a href=&#34;https://winscp.net/eng/download.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WinSCP&lt;/a&gt;进行相关操作。&lt;/p&gt;
 &lt;h3 id=&#34;对于小白用户&#34;&gt;对于小白用户&lt;/h3&gt;
 &lt;p&gt;从文墨下载我的两个安装脚本，把nrs.tgz复制到vps的home文件夹，在命令行中输入&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;tar -xzvf nrs.tgz &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; nrs &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; chmod +x install.sh &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; ./install.sh
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这样就安装完成了，运行脚本的时候要输入证书和私钥的绝对路径，如果无证书文件可直接留空。
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;tar -xzvf nrs.tgz &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; nrs &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; chmod +x install.sh &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; ./install.sh
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;这样就安装完成了，运行脚本的时候要输入证书和私钥的绝对路径，如果无证书文件可直接留空。&lt;br&gt;
 把check-cert-update.tgz复制到任意位置，然后执行命令&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;tar -xzvf check-cert-update.tgz &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; check-cert-update &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; chmod +x install.sh &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; ./install.sh
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;同样，输入证书的绝对路径，即可配置完成。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;tar -xzvf check-cert-update.tgz &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; check-cert-update &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; chmod +x install.sh &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; ./install.sh
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;同样，输入证书的绝对路径，即可配置完成。&lt;/p&gt;
 &lt;h3 id=&#34;对于想自定义使用或者想自己动手的高级用户&#34;&gt;对于想自定义使用或者想自己动手的高级用户：&lt;/h3&gt;
-&lt;p&gt;从github下载好相关文件，连接到VPS后，找个你想放的文件夹，例如我放在/home里，右键菜单、文件自定义命令、UnTar/GZip，回车两次搞定。
-我们可以重命名一下文件夹，这名字太长了，比如改成nrs，然后f9给文件夹权限，改成0777，并选中递归设置所有者、分组与权限复选框，然后回车确定。
-进入文件夹内部，进入systemd文件夹，修改nvdaRemoteServer.service文件，把
-User=sample
-和
-Group=sample
-从sample改成root，然后更改ExecStart的内容。
-ExecStart=/home/sample/bin/nvdaRemoteServer -cert-file /home/sample/nvdaRemoteServer/cert.crt -key-file /home/sample/nvdaRemoteServer/cert.key -log-level=3
-首先当然是主进程的位置，我们放在了/home/nrs里面，那么就要更改指向路径的位置，就变成了
+&lt;p&gt;从github下载好相关文件，连接到VPS后，找个你想放的文件夹，例如我放在/home里，右键菜单、文件自定义命令、UnTar/GZip，回车两次搞定。&lt;br&gt;
+我们可以重命名一下文件夹，这名字太长了，比如改成nrs，然后f9给文件夹权限，改成0777，并选中递归设置所有者、分组与权限复选框，然后回车确定。&lt;br&gt;
+进入文件夹内部，进入systemd文件夹，修改nvdaRemoteServer.service文件，把&lt;br&gt;
+User=sample&lt;br&gt;
+和&lt;br&gt;
+Group=sample&lt;br&gt;
+从sample改成root，然后更改ExecStart的内容。&lt;br&gt;
+ExecStart=/home/sample/bin/nvdaRemoteServer -cert-file /home/sample/nvdaRemoteServer/cert.crt -key-file /home/sample/nvdaRemoteServer/cert.key -log-level=3&lt;br&gt;
+首先当然是主进程的位置，我们放在了/home/nrs里面，那么就要更改指向路径的位置，就变成了&lt;br&gt;
 /home/nrs/nvdaRemoteServer&lt;/p&gt;
 &lt;h3 id=&#34;更改-cert-file的路径&#34;&gt;更改-cert-file的路径&lt;/h3&gt;
 &lt;p&gt;这里分几种情况：&lt;/p&gt;
@@ -24268,34 +24313,60 @@ ExecStart=/home/sample/bin/nvdaRemoteServer -cert-file /home/sample/nvdaRemoteSe
 &lt;h4 id=&#34;有ssl证书&#34;&gt;有ssl证书&lt;/h4&gt;
 &lt;p&gt;那么就可以把后面的路径改成你指向你ssl证书和秘钥的路径，格式不限，不管是.crt还是.cer，都行，能打开查看里面的内容就行。&lt;/p&gt;
 &lt;h3 id=&#34;使用配置&#34;&gt;使用配置&lt;/h3&gt;
-&lt;p&gt;-conf-file是使用配置文件的意思，后面加上配置文件的路径，至于如何得到配置文件，后面在说，首先我这么写：
+&lt;p&gt;-conf-file是使用配置文件的意思，后面加上配置文件的路径，至于如何得到配置文件，后面在说，首先我这么写：&lt;br&gt;
 -conf-file /home/nrs/nvdaRemoteServer.json&lt;/p&gt;
 &lt;h3 id=&#34;日志相关&#34;&gt;日志相关&lt;/h3&gt;
 &lt;h4 id=&#34;-log-level&#34;&gt;-log-level&lt;/h4&gt;
 &lt;p&gt;日志等级，-1到4，-1就是关闭日志，数字月高月详细。&lt;/p&gt;
 &lt;h4 id=&#34;程序输出日志&#34;&gt;程序输出日志&lt;/h4&gt;
-&lt;p&gt;默认是
-StandardOutput=append:/home/sample/nvdaRemoteServer/stdout.log
-改成你想放这个日志的地方，比如我改成
-StandardOutput=append:/home/nrs/stdout.log
+&lt;p&gt;默认是&lt;br&gt;
+StandardOutput=append:/home/sample/nvdaRemoteServer/stdout.log&lt;br&gt;
+改成你想放这个日志的地方，比如我改成&lt;br&gt;
+StandardOutput=append:/home/nrs/stdout.log&lt;br&gt;
 注意你设置的输出日志的文件夹必须存在，比如放在/home/log/nrs-log里面，就要保证有log和nrs-log这两个文件夹并有相关权限，没有就要先创建在运行服务，否则会报错&lt;/p&gt;
 &lt;h4 id=&#34;程序错误日志&#34;&gt;程序错误日志&lt;/h4&gt;
-&lt;p&gt;同上，比如我改成
-StandardError=append:/home/nrs/stderr.log
+&lt;p&gt;同上，比如我改成&lt;br&gt;
+StandardError=append:/home/nrs/stderr.log&lt;br&gt;
 当然，最后日志的文件名也可以随意更改。&lt;/p&gt;
 &lt;h3 id=&#34;最终配置&#34;&gt;最终配置&lt;/h3&gt;
 &lt;p&gt;最后改好的配置就是&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-ini&#34; data-lang=&#34;ini&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;na&#34;&gt;ExecStart&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;/home/nrs/nvdaRemoteServer -cert-file /home/nrs/cert.crt -key-file /home/nrs/cert.key -log-level=3 -conf-file /home/nrs/nvdaRemoteServer.json&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-ini&#34; data-lang=&#34;ini&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;na&#34;&gt;ExecStart&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;/home/nrs/nvdaRemoteServer -cert-file /home/nrs/cert.crt -key-file /home/nrs/cert.key -log-level=3 -conf-file /home/nrs/nvdaRemoteServer.json&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;na&#34;&gt;StandardOutput&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;append:/home/nrs/stdout.log&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;na&#34;&gt;StandardError&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;append:/home/nrs/stderr.log&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;注意证书文件不能直接用，要自己证书的位置，没有证书就删掉cert-file和key-file这两个参数吧，注意后面的路径要一起删掉，如果你以后或得了证书文件可以直接改配置文件，不需要在到找这里改了。&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;注意证书文件不能直接用，要自己证书的位置，没有证书就删掉cert-file和key-file这两个参数吧，注意后面的路径要一起删掉，如果你以后或得了证书文件可以直接改配置文件，不需要在到找这里改了。&lt;/p&gt;
 &lt;h3 id=&#34;复制文件&#34;&gt;复制文件&lt;/h3&gt;
-&lt;p&gt;把nvdaRemoteServer.service重命名为nrs.service，这样方便命令输入，放到
+&lt;p&gt;把nvdaRemoteServer.service重命名为nrs.service，这样方便命令输入，放到&lt;br&gt;
 /etc/systemd/system/里面。&lt;/p&gt;
 &lt;h2 id=&#34;程序配置&#34;&gt;程序配置&lt;/h2&gt;
-&lt;p&gt;我会给一个配置文件的样本，后面也会解释相关参数，只需要在电脑上新建一个文本文件，粘贴配置的内容，文件名改成nvdaRemoteServer.json
+&lt;p&gt;我会给一个配置文件的样本，后面也会解释相关参数，只需要在电脑上新建一个文本文件，粘贴配置的内容，文件名改成nvdaRemoteServer.json&lt;br&gt;
 复制到服务器的/home/nrs目录下即可，当然这是我在上面所写的路径，如果你不想放在这里或者文件名不想这么长，也可以自行修改，当然也要记得同时修改nrs.service里面的&lt;code&gt;-conf-file&lt;/code&gt;及其后面的路径。&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;nt&#34;&gt;&amp;#34;pid_file&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;nt&#34;&gt;&amp;#34;log_file&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;nt&#34;&gt;&amp;#34;log_level&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
@@ -24308,7 +24379,9 @@ StandardError=append:/home/nrs/stderr.log
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;nt&#34;&gt;&amp;#34;motd_always_display&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;false&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;nt&#34;&gt;&amp;#34;send_origin&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;注：命令行执行的参数高于配置文件的参数，相信细心的你已经看到，在这个配置文件里也有证书秘钥和日志等级的参数，但其实可以不必理会，因为在上面的nrs.service里面已经指定了位置，那个优先级要高于配置文件的，除非你想缩短ExecStart的内容，及删掉证书秘钥和日志等级的相关参数。
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;注：命令行执行的参数高于配置文件的参数，相信细心的你已经看到，在这个配置文件里也有证书秘钥和日志等级的参数，但其实可以不必理会，因为在上面的nrs.service里面已经指定了位置，那个优先级要高于配置文件的，除非你想缩短ExecStart的内容，及删掉证书秘钥和日志等级的相关参数。&lt;br&gt;
 下面我会逐一解释配置的每个参数：&lt;/p&gt;
 &lt;h3 id=&#34;pid_file&#34;&gt;pid_file:&lt;/h3&gt;
 &lt;p&gt;这是程序pid的位置，我没有更改它，保持了留空。&lt;/p&gt;
@@ -24325,15 +24398,15 @@ StandardError=append:/home/nrs/stderr.log
 &lt;li&gt;4 会记录服务器和客户端之间交换的协议。除非你是开发人员或者想要分析所使用的协议，否则不要使用这个级别。这可能会导致性能下降，因为交换协议的信息也会发送到控制台，或者如果你的操作系统设置了重定向，也会写入文件。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;addresses&#34;&gt;addresses:&lt;/h3&gt;
-&lt;p&gt;无必要一般不用修改。
-程序监听传入连接的地址，格式为IP地址:端口。默认情况下，使用所有地址，服务器接受端口6837上的连接。
-如果你想监听IPV6地址，该地址必须用方括号括起来。例如：
-[fd80::ffe8]:6837
-只要您的某个网络接口上有一个有效的IPV6地址，例如IPV6地址的本地前缀，您就可以监听到服务器的传入连接。要只监听IPV6地址，请使用以下示例。
-[::]:6837
-要监听IPV4地址，只需使用以下示例中的有效参数即可，该参数将仅监听所有IPV4地址。
-0.0.0.0:6837
-如果没有声明地址，默认端口为6837。有效端口号介于1和65536之间。在声明服务器监听的地址时，您还必须声明端口，否则参数将无效。但是，您不需要声明地址。例如，如果你想监听所有地址，但使用端口5000，请使用以下命令。
+&lt;p&gt;无必要一般不用修改。&lt;br&gt;
+程序监听传入连接的地址，格式为IP地址:端口。默认情况下，使用所有地址，服务器接受端口6837上的连接。&lt;br&gt;
+如果你想监听IPV6地址，该地址必须用方括号括起来。例如：&lt;br&gt;
+[fd80::ffe8]:6837&lt;br&gt;
+只要您的某个网络接口上有一个有效的IPV6地址，例如IPV6地址的本地前缀，您就可以监听到服务器的传入连接。要只监听IPV6地址，请使用以下示例。&lt;br&gt;
+[::]:6837&lt;br&gt;
+要监听IPV4地址，只需使用以下示例中的有效参数即可，该参数将仅监听所有IPV4地址。&lt;br&gt;
+0.0.0.0:6837&lt;br&gt;
+如果没有声明地址，默认端口为6837。有效端口号介于1和65536之间。在声明服务器监听的地址时，您还必须声明端口，否则参数将无效。但是，您不需要声明地址。例如，如果你想监听所有地址，但使用端口5000，请使用以下命令。&lt;br&gt;
 :5000&lt;/p&gt;
 &lt;h3 id=&#34;cert_file&#34;&gt;cert_file:&lt;/h3&gt;
 &lt;p&gt;证书文件位置&lt;/p&gt;
@@ -24344,35 +24417,93 @@ StandardError=append:/home/nrs/stderr.log
 &lt;h3 id=&#34;motd_always_display&#34;&gt;motd_always_display:&lt;/h3&gt;
 &lt;p&gt;设置是否每次连接都显示没日消息，如果为true则每次连接都显示，false为第一次连接显示。&lt;/p&gt;
 &lt;h3 id=&#34;send_origin&#34;&gt;send_origin:&lt;/h3&gt;
-&lt;p&gt;默认情况下，当服务器收到来自客户端的消息时，会将相同的消息发送给所有需要接收的客户端，但会在该消息中添加一个来源字段。这要求将消息解码为程序更易操作的值，添加来源信息后，再编码回要发送给所有客户端的值。这可能会导致轻微的性能损失。如果需要，可以通过设置为 false 来禁用此功能，不过这样做可能会导致某些功能无法正常工作。如果将其设置为 false，服务器会警告您，在需要来源字段时，这可能会影响客户端的功能。
+&lt;p&gt;默认情况下，当服务器收到来自客户端的消息时，会将相同的消息发送给所有需要接收的客户端，但会在该消息中添加一个来源字段。这要求将消息解码为程序更易操作的值，添加来源信息后，再编码回要发送给所有客户端的值。这可能会导致轻微的性能损失。如果需要，可以通过设置为 false 来禁用此功能，不过这样做可能会导致某些功能无法正常工作。如果将其设置为 false，服务器会警告您，在需要来源字段时，这可能会影响客户端的功能。&lt;br&gt;
 没必要不需要改。&lt;/p&gt;
 &lt;h2 id=&#34;nvda远程服务器需要用到的命令&#34;&gt;nvda远程服务器需要用到的命令&lt;/h2&gt;
 &lt;h3 id=&#34;设置开机自启&#34;&gt;设置开机自启&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; nrs
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;启动nvda远程服务器&#34;&gt;启动nvda远程服务器&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl start nrs
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;停止nvda远程服务器&#34;&gt;停止nvda远程服务器&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl stop nrs
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;重启nvda远程服务器&#34;&gt;重启nvda远程服务器&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl restart nrs
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;禁止nvda远程服务器开机自启动&#34;&gt;禁止nvda远程服务器开机自启动&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl disable nrs
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;后记&#34;&gt;后记&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; nrs
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;启动nvda远程服务器&#34;&gt;启动nvda远程服务器&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl start nrs
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;停止nvda远程服务器&#34;&gt;停止nvda远程服务器&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl stop nrs
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;重启nvda远程服务器&#34;&gt;重启nvda远程服务器&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl restart nrs
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;禁止nvda远程服务器开机自启动&#34;&gt;禁止nvda远程服务器开机自启动&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl disable nrs
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;后记&#34;&gt;后记&lt;/h2&gt;
 &lt;p&gt;一切设置完成之后就成功搭建了nvda远程服务器，更详细的说明可以去看压缩包里的readme.md文件。&lt;/p&gt;
 &lt;h2 id=&#34;附当ssl证书更新时自动重启nvda远程服务器已加载最新的ssl证书&#34;&gt;附：当ssl证书更新时自动重启nvda远程服务器已加载最新的ssl证书&lt;/h2&gt;
-&lt;p&gt;如果你是用caddy申请的证书，可以看看&lt;a href=&#34;https://www.qt06.com/post/424/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;晴天老师的文章&lt;/a&gt;
-如果你用的是acme.sh申请的免费的证书，如ZeroSsl、Let&#39;s Encrypt等，通常证书文件只有90天，一般来说，会在证书有效期剩余30天左右acme.sh之类的脚本会给你自动续期新证书，那么问题来了，如果只是证书更新，但是nrs服务没有重启，它加载的还是以前的证书，等到90天过去，就会提示证书失效了，该怎么解决这个问题呢？
+&lt;p&gt;如果你是用caddy申请的证书，可以看看&lt;a href=&#34;https://www.qt06.com/post/424/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;晴天老师的文章&lt;/a&gt;&lt;br&gt;
+如果你用的是acme.sh申请的免费的证书，如ZeroSsl、Let&#39;s Encrypt等，通常证书文件只有90天，一般来说，会在证书有效期剩余30天左右acme.sh之类的脚本会给你自动续期新证书，那么问题来了，如果只是证书更新，但是nrs服务没有重启，它加载的还是以前的证书，等到90天过去，就会提示证书失效了，该怎么解决这个问题呢？&lt;br&gt;
 我的思路是这样的：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;创建一个检查证书有效期的脚本文件&lt;/li&gt;
 &lt;li&gt;将其作为系统服务开机自启&lt;/li&gt;
-&lt;li&gt;设置一个定时器定期运行这个脚本检查证书的有效期
-下面我会具体展开说说
-首先创建一个名为
-check-cert-update.sh
+&lt;li&gt;设置一个定时器定期运行这个脚本检查证书的有效期&lt;br&gt;
+下面我会具体展开说说&lt;br&gt;
+首先创建一个名为&lt;br&gt;
+check-cert-update.sh&lt;br&gt;
 的脚本，内容如下&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;#!/bin/bash
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;#!/bin/bash
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nv&#34;&gt;CERT_FILE&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;/usr/local/nginx/conf/ssl/www.yydjtc.top/fullchain.cer&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nv&#34;&gt;SERVICE_NAME&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;nrs&amp;#34;&lt;/span&gt;
@@ -24391,23 +24522,50 @@ check-cert-update.sh
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$LAST_MODIFIED&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt; &amp;gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$TIMESTAMP_FILE&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    systemctl restart &lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$SERVICE_NAME&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;fi&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;如果你的证书位置不同自行修改，注意续签的证书和现在证书的文件名要一样。
-把它放在
-/usr/local/bin/
-里面，并给相应的权限。
-创建一个服务
-check-cert-update.service
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;如果你的证书位置不同自行修改，注意续签的证书和现在证书的文件名要一样。&lt;br&gt;
+把它放在&lt;br&gt;
+/usr/local/bin/&lt;br&gt;
+里面，并给相应的权限。&lt;br&gt;
+创建一个服务&lt;br&gt;
+check-cert-update.service&lt;br&gt;
 内容如下：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-ini&#34; data-lang=&#34;ini&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;[Unit]&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-ini&#34; data-lang=&#34;ini&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;[Unit]&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;na&#34;&gt;Description&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;Check for SSL certificate updates and restart nrs service&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;[Service]&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;na&#34;&gt;Type&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;oneshot&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;na&#34;&gt;ExecStart&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;/usr/local/bin/check-cert-update.sh&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;继续，创建一个定时器让他定时执行，创建一个名字叫
-check-cert-update.timer
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;继续，创建一个定时器让他定时执行，创建一个名字叫&lt;br&gt;
+check-cert-update.timer&lt;br&gt;
 的文件，内容如下：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-ini&#34; data-lang=&#34;ini&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;[Unit]&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-ini&#34; data-lang=&#34;ini&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;[Unit]&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;na&#34;&gt;Description&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;Run check-cert-update.service every 15 minutes&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;[Timer]&lt;/span&gt;
@@ -24416,39 +24574,48 @@ check-cert-update.timer
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;[Install]&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;na&#34;&gt;WantedBy&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;timers.target`&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;把它和
-check-cert-update.service
-放在同一文件夹，就是
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;把它和&lt;br&gt;
+check-cert-update.service&lt;br&gt;
+放在同一文件夹，就是&lt;br&gt;
 /etc/systemd/system/&lt;/p&gt;
 &lt;p&gt;然后命令行输入&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl daemon-reload &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; check-cert-update.timer &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; systemctl start check-cert-update.timer
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;解析&#34;&gt;解析：&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl daemon-reload &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; check-cert-update.timer &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; systemctl start check-cert-update.timer
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;解析&#34;&gt;解析：&lt;/h3&gt;
 &lt;p&gt;1、  变量定义：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;CERT_FILE&lt;/code&gt;
+&lt;li&gt;&lt;code&gt;CERT_FILE&lt;/code&gt;&lt;br&gt;
 ：定义证书文件的路径。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;SERVICE_NAME&lt;/code&gt;
+&lt;li&gt;&lt;code&gt;SERVICE_NAME&lt;/code&gt;&lt;br&gt;
 ：定义需要重启的服务名称。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;TIMESTAMP_FILE&lt;/code&gt;
-：定义存储上次检查时间戳的文件路径。
+&lt;li&gt;&lt;code&gt;TIMESTAMP_FILE&lt;/code&gt;&lt;br&gt;
+：定义存储上次检查时间戳的文件路径。&lt;br&gt;
 2、  检查时间戳文件是否存在：&lt;/li&gt;
-&lt;li&gt;如果不存在，创建它并记录证书文件的当前修改时间戳，然后退出脚本。
+&lt;li&gt;如果不存在，创建它并记录证书文件的当前修改时间戳，然后退出脚本。&lt;br&gt;
 3、  获取时间戳：&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;LAST_MODIFIED&lt;/code&gt;
+&lt;li&gt;&lt;code&gt;LAST_MODIFIED&lt;/code&gt;&lt;br&gt;
 ：获取证书文件的当前修改时间戳。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;LAST_CHECK&lt;/code&gt;
-：读取上次检查时记录的时间戳。
+&lt;li&gt;&lt;code&gt;LAST_CHECK&lt;/code&gt;&lt;br&gt;
+：读取上次检查时记录的时间戳。&lt;br&gt;
 4、  比较时间戳：&lt;/li&gt;
-&lt;li&gt;如果当前时间戳和上次检查的时间戳不同，更新时间戳文件，并重启  &lt;code&gt;SERVICE_NAME&lt;/code&gt; 服务。
+&lt;li&gt;如果当前时间戳和上次检查的时间戳不同，更新时间戳文件，并重启  &lt;code&gt;SERVICE_NAME&lt;/code&gt; 服务。&lt;br&gt;
 这样，不仅仅是nrs，理论上所有需要重新加载证书的程序都可以用这个脚本，如果需要多个程序都重启，就改一改脚本文件，定义多个变量，例如&lt;code&gt;SERVICE1_NAME&lt;/code&gt;、&lt;code&gt;SERVICE2_NAME&lt;/code&gt;，相应的在下面加上对应程序需要的命令就行了。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;文件下载&#34;&gt;文件下载&lt;/h2&gt;
 &lt;p&gt;若无法直接下载可从网盘进行下载。&lt;/p&gt;
 &lt;h3 id=&#34;nvda远程服务器一键安装脚本&#34;&gt;nvda远程服务器一键安装脚本&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://yydjtc.top/download/nrs.tgz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;本地下载我整理好的nrs一件安装脚本&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://yydjtc.top/download/nrs.tgz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;本地下载我整理好的nrs一件安装脚本&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://www.123pan.com/s/egE9-Rr1Jv.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;123网盘下载我整理好的nrs一件安装脚本&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;证书自动监控一件安装脚本&#34;&gt;证书自动监控一件安装脚本&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://yydjtc.top/download/check-cert-update.tgz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;本地下载证书监控一件安装脚本&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://yydjtc.top/download/check-cert-update.tgz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;本地下载证书监控一件安装脚本&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://www.123pan.com/s/egE9-G81Jv.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;123云盘下载证书监控一键安装脚本&lt;/a&gt;&lt;/p&gt;
 </description>
                 
@@ -24458,7 +24625,29 @@ check-cert-update.service
                 
                     
                         
+                            
+                                
+                                
+                                
+                                    <category domain="https://fltx2004.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/">经验分享</category>
+                                
+                            
+                        
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://fltx2004.github.io/tags/linux/">linux</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fltx2004.github.io/tags/nvda/">nvda</category>
+                                
+                            
                         
                     
                 
@@ -24466,8 +24655,8 @@ check-cert-update.service
         
             <item>
                 <title>说说teamtalk服务器的安装</title>
-                <link>https://fltx2004.github.io/posts/ttsrv/</link>
-                <guid isPermaLink="true">https://fltx2004.github.io/posts/ttsrv/</guid>
+                <link>https://fltx2004.github.io/post/ttsrv/</link>
+                <guid isPermaLink="true">https://fltx2004.github.io/post/ttsrv/</guid>
                 <pubDate>Thu, 28 Nov 2024 21:08:29 &#43;0800</pubDate>
                 
                     <author>qyb@yydjtc.cn (风凌天下)</author>
@@ -24475,104 +24664,188 @@ check-cert-update.service
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 <description>&lt;p&gt;这里我主要说说linux teamtalk服务器的配置，windows也会顺便说一下。&lt;/p&gt;
 &lt;h2 id=&#34;下载teamtalk&#34;&gt;下载Teamtalk:&lt;/h2&gt;
-&lt;p&gt;首先要下载Teamtalk，可以从&lt;a href=&#34;https://bearware.dk/?page_id=353&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bearware&lt;/a&gt;下载。
-带Portable的是windows的绿色版，
-.pkg的是mac版，
+&lt;p&gt;首先要下载Teamtalk，可以从&lt;a href=&#34;https://bearware.dk/?page_id=353&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bearware&lt;/a&gt;下载。&lt;br&gt;
+带Portable的是windows的绿色版，&lt;br&gt;
+.pkg的是mac版，&lt;br&gt;
 linux中，debian和ubuntu用后面带ubuntu的，cent用后面是centos的。&lt;/p&gt;
 &lt;h2 id=&#34;安装teamtalk&#34;&gt;安装teamtalk：&lt;/h2&gt;
 &lt;h3 id=&#34;windows&#34;&gt;windows&lt;/h3&gt;
 &lt;h4 id=&#34;便携版&#34;&gt;便携版&lt;/h4&gt;
-&lt;p&gt;这个没啥好说的，便携版打开直接用，客户端在
-Client
-文件夹里，服务器在
-Server
-里，直接运行
-tt5svc_install.bat
+&lt;p&gt;这个没啥好说的，便携版打开直接用，客户端在&lt;br&gt;
+Client&lt;br&gt;
+文件夹里，服务器在&lt;br&gt;
+Server&lt;br&gt;
+里，直接运行&lt;br&gt;
+tt5svc_install.bat&lt;br&gt;
 ，就有服务器的配置向导了。&lt;/p&gt;
 &lt;h4 id=&#34;安装板&#34;&gt;安装板&lt;/h4&gt;
-&lt;p&gt;运行安装包的时候选择组件的时候，如果只需要客户端那默认就行，如果想要带服务器的，组件就选下面的那个，
-TeamTalk 5 Client &amp;amp; Server
-，安装好，在开始菜单的程序组里，打开teamtalk5文件夹，找
-install nt service
+&lt;p&gt;运行安装包的时候选择组件的时候，如果只需要客户端那默认就行，如果想要带服务器的，组件就选下面的那个，&lt;br&gt;
+TeamTalk 5 Client &amp;amp; Server&lt;br&gt;
+，安装好，在开始菜单的程序组里，打开teamtalk5文件夹，找&lt;br&gt;
+install nt service&lt;br&gt;
 类似的文件，我已经好长时间不用windows的tt服务器了，大概是这样的，反正带install的就是了。&lt;/p&gt;
 &lt;h3 id=&#34;linux&#34;&gt;linux&lt;/h3&gt;
 &lt;h4 id=&#34;安装winscp&#34;&gt;安装WinSCP&lt;/h4&gt;
-&lt;p&gt;方便新手，可以用&lt;a href=&#34;https://winscp.net/eng/downloads.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WinSCP&lt;/a&gt;，很好的图形化文件管理软件，
+&lt;p&gt;方便新手，可以用&lt;a href=&#34;https://winscp.net/eng/downloads.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WinSCP&lt;/a&gt;，很好的图形化文件管理软件，&lt;br&gt;
 安装好了打开，新建站点这里，后面就有可填写的选项了，文件协议选择SCP，后面的主机地址、端口、用户名和密码自行填写，在保存的地方可以展开选择保存，里面可以选择创建桌面快捷方式、保存密码等，自行按需选择。&lt;/p&gt;
 &lt;h4 id=&#34;复制解压tt安装文件&#34;&gt;复制解压tt安装文件&lt;/h4&gt;
-&lt;p&gt;连接好了之后，复制下载回来的tgz文件，放到一个你喜欢的地方，比如我放到了home里，你问怎么复制？就像资源管理器一样的操作，复制粘贴。
-复制好了，在tt压缩包右键选择
-文件自定义命令
-，展开，点击UnTar/GZip，在点击确定即可。
-同样，解压开也是Client和Server两个文件夹，如果不需要客户端可以删掉，如果想更改server文件夹名字可以在文件夹按f2，修改即可，后面的配置的文件路径也自行修改成你自己的。
+&lt;p&gt;连接好了之后，复制下载回来的tgz文件，放到一个你喜欢的地方，比如我放到了home里，你问怎么复制？就像资源管理器一样的操作，复制粘贴。&lt;br&gt;
+复制好了，在tt压缩包右键选择&lt;br&gt;
+文件自定义命令&lt;br&gt;
+，展开，点击UnTar/GZip，在点击确定即可。&lt;br&gt;
+同样，解压开也是Client和Server两个文件夹，如果不需要客户端可以删掉，如果想更改server文件夹名字可以在文件夹按f2，修改即可，后面的配置的文件路径也自行修改成你自己的。&lt;br&gt;
 在本教程中，我把tt共享文件存放在server里的files文件夹，所以我要进入server文件夹，按f7创建一个新文件夹，名称就叫files，如果你不想放在这里也可自行在后面修改。&lt;/p&gt;
 &lt;h4 id=&#34;赋予文件夹权限&#34;&gt;赋予文件夹权限&lt;/h4&gt;
-&lt;p&gt;由于tt需要在teamtalk组和隶属于teamtalk组的同名用户下运行，所以创建用户组，
+&lt;p&gt;由于tt需要在teamtalk组和隶属于teamtalk组的同名用户下运行，所以创建用户组，&lt;br&gt;
 可以用putty或者windows自带的ssh工具，这里已windows的ssh为例：假设服务器地址是123.456.789.0，win+r打开运行对话框，然后输入&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cmd&#34; data-lang=&#34;cmd&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh root@123.456.789.0
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;，这只是用于默认22端口，如果你更改过ssh端口,假设改成了12345，就这样：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cmd&#34; data-lang=&#34;cmd&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh -p 12345 root@123.456.789.0
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;第一次连接可能会让确认指纹，输入
-yes
-即可，然后输入root账户密码，这里不会显示输入的字符，输入好了直接回车就行。
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cmd&#34; data-lang=&#34;cmd&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh root@123.456.789.0
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;，这只是用于默认22端口，如果你更改过ssh端口,假设改成了12345，就这样：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cmd&#34; data-lang=&#34;cmd&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh -p 12345 root@123.456.789.0
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;第一次连接可能会让确认指纹，输入&lt;br&gt;
+yes&lt;br&gt;
+即可，然后输入root账户密码，这里不会显示输入的字符，输入好了直接回车就行。&lt;br&gt;
 然后开始添加用户和组了，输入&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;groupadd teamtalk &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; useradd -g teamtalk teamtalk
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这样就可以了。
-我们回到WinSCP，退回到server的上一级文件夹，也就是home，找到server，按f9，在确定的前面的编辑框，由
-0755
-改成
-0777
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;groupadd teamtalk &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; useradd -g teamtalk teamtalk
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;这样就可以了。&lt;br&gt;
+我们回到WinSCP，退回到server的上一级文件夹，也就是home，找到server，按f9，在确定的前面的编辑框，由&lt;br&gt;
+0755&lt;br&gt;
+改成&lt;br&gt;
+0777&lt;br&gt;
 ，并选中后面的递归设置所有者、分组与权限，确定后面的两个编辑框，现在应该是root，都改成teamtalk，点击确定即可。&lt;/p&gt;
 &lt;h4 id=&#34;teamtalk配置修改&#34;&gt;teamtalk配置修改&lt;/h4&gt;
 &lt;h5 id=&#34;默认配置&#34;&gt;默认配置&lt;/h5&gt;
-&lt;p&gt;如果想遵循默认安装，那么把tt5srv复制到
-/usr/bin
+&lt;p&gt;如果想遵循默认安装，那么把tt5srv复制到&lt;br&gt;
+/usr/bin&lt;br&gt;
 里面。&lt;/p&gt;
 &lt;h5 id=&#34;自定义配置&#34;&gt;自定义配置&lt;/h5&gt;
-&lt;p&gt;进入server/systemd文件夹，编辑tt5server.service，把
-ExecStart=/usr/bin/tt5srv -nd -c /etc/teamtalk/tt5srv.xml -l /var/log/teamtalk/tt5srv.log
+&lt;p&gt;进入server/systemd文件夹，编辑tt5server.service，把&lt;br&gt;
+ExecStart=/usr/bin/tt5srv -nd -c /etc/teamtalk/tt5srv.xml -l /var/log/teamtalk/tt5srv.log&lt;br&gt;
 改成&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-ini&#34; data-lang=&#34;ini&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;na&#34;&gt;ExecStart&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;/home/server/tt5srv -nd -c /home/tt5srv.xml -l /home/server/tt5srv.log&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这里如果你tt放置的文件夹不同，修改的路径也不同，
--l
-后面的是日志文件，
--c
-后面的是配置文件。
-如果不想都放在server文件夹，也可以不修改
--c
-和
--l
-后面的路径。
-然后把systemd里面的
-tt5server.service
-复制到
-/etc/systemd/system
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-ini&#34; data-lang=&#34;ini&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;na&#34;&gt;ExecStart&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;/home/server/tt5srv -nd -c /home/tt5srv.xml -l /home/server/tt5srv.log&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;这里如果你tt放置的文件夹不同，修改的路径也不同，&lt;br&gt;
+-l&lt;br&gt;
+后面的是日志文件，&lt;br&gt;
+-c&lt;br&gt;
+后面的是配置文件。&lt;br&gt;
+如果不想都放在server文件夹，也可以不修改&lt;br&gt;
+-c&lt;br&gt;
+和&lt;br&gt;
+-l&lt;br&gt;
+后面的路径。&lt;br&gt;
+然后把systemd里面的&lt;br&gt;
+tt5server.service&lt;br&gt;
+复制到&lt;br&gt;
+/etc/systemd/system&lt;br&gt;
 里面。&lt;/p&gt;
 &lt;h3 id=&#34;运行tt服务器配置向导&#34;&gt;运行tt服务器配置向导&lt;/h3&gt;
 &lt;p&gt;执行&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/home/server/tt5srv -wd /home/server -c /home/server/tt5srv.xml -l /home/server/tt5srv.log -wizard -nd
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;，这里如果tt服务器文件位置不同，也自行修改。
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/home/server/tt5srv -wd /home/server -c /home/server/tt5srv.xml -l /home/server/tt5srv.log -wizard -nd
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;，这里如果tt服务器文件位置不同，也自行修改。&lt;br&gt;
 这样就会弹出和windows一样的设置向导了，都可以用翻译看明白，注意如果启用了文件共享，就要在路径里输入&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-path&#34; data-lang=&#34;path&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;/home/server/files&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;，同理，如果你共享文件放的位置与我不同，也自行改成你的路径。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-path&#34; data-lang=&#34;path&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;/home/server/files&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;，同理，如果你共享文件放的位置与我不同，也自行改成你的路径。&lt;/p&gt;
 &lt;h3 id=&#34;设置tt服务器开机自启动&#34;&gt;设置tt服务器开机自启动&lt;/h3&gt;
 &lt;p&gt;命令行输入&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; tt5server
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;就可以开机自启动了。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; tt5server
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;就可以开机自启动了。&lt;/p&gt;
 &lt;h2 id=&#34;结束&#34;&gt;结束&lt;/h2&gt;
 &lt;p&gt;至此，tt服务器就安装成功了，当服务器重启之后tt服务器也会开机自启动，不用去手动启动，非常方便。&lt;/p&gt;
 &lt;h2 id=&#34;附tt服务器相关命令&#34;&gt;附：tt服务器相关命令&lt;/h2&gt;
 &lt;p&gt;让tt服务器开机自启动&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; tt5server
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;禁用tt服务器开机自启动&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl disable tt5server
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;启动tt服务器&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl start tt5server
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;停止tt服务器&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl stop tt5server
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;重启tt服务器&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl restart tt5server
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl &lt;span class=&#34;nb&#34;&gt;enable&lt;/span&gt; tt5server
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;禁用tt服务器开机自启动&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl disable tt5server
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;启动tt服务器&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl start tt5server
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;停止tt服务器&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl stop tt5server
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;重启tt服务器&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;div class=&#34;table-container&#34;&gt;&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;systemctl restart tt5server
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
                 
                 
                 
@@ -24580,7 +24853,29 @@ tt5server.service
                 
                     
                         
+                            
+                                
+                                
+                                
+                                    <category domain="https://fltx2004.github.io/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/">经验分享</category>
+                                
+                            
+                        
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://fltx2004.github.io/tags/teamtalk/">teamtalk</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fltx2004.github.io/tags/linux/">linux</category>
+                                
+                            
                         
                     
                 
