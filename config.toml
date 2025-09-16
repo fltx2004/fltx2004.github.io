@@ -88,8 +88,8 @@ uglyURLs = false
     [markup.highlight]
         codeFences = true
         guessSyntax = false
-        lineNos = true
-        lineNumbersInTable = true
+        lineNos = false
+        lineNumbersInTable = false
         noClasses = false
     [markup.tableOfContents]
         startLevel = 2
@@ -1112,11 +1112,11 @@ uglyURLs = false
     # 文章更新徽章
 
     # 是否开启
-    enablePostUpdatedBadge = true
+    enablePostUpdatedBadge = false
 
     # 是否显示（全局设置）
-    displayUpdatedBadge = true
-    # 说明：文章的 Front Matter 中的 `badge`
+    displayUpdatedBadge = false
+    # 说明： 文章的 Front Matter 中的 `badge`
     #      的优先级高于此处
 
     # 是否添加 `title`
@@ -1350,7 +1350,6 @@ uglyURLs = false
     enableCopy = true
     # 是否开启自动隐藏
     enableCopyAutoHide = true
-
 
     ######################################
     # 文件指纹和子资源完整性（SRI）
