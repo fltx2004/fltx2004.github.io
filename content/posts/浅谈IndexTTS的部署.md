@@ -4,6 +4,7 @@ draft = false
 title = '浅谈IndexTTS的部署'
 categories = ['经验分享']
 tags = ['IndexTTS', 'modelscope']
+slug = 'Index-TTS-deploy'
 +++
 
 项目地址：

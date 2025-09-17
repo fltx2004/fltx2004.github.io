@@ -4,6 +4,7 @@ draft = false
 title = 'nvda远程服务器在linux的搭建'
 categories = ['经验分享']
 tags = ['linux', 'nvda']
+slug = 'nrs'
 +++
 今天来说说NVDA远程服务器在linux的搭建，windows自行看说明研究。
 主要是针对debian、ubuntu等系统，centOS的大同小异。

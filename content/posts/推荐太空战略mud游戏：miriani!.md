@@ -4,6 +4,7 @@ draft = false
 title = '推荐太空战略mud游戏：miriani!'
 categories = ['游戏分享']
 tags = ['miriani', 'mud']
+slug = 'miriani'
 +++
 
 ## 前言

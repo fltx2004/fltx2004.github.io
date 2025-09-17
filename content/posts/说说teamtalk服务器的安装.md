@@ -4,6 +4,7 @@ draft = false
 title = '说说teamtalk服务器的安装'
  categories = ['经验分享']
 tags = ['teamtalk', 'linux']
+slug = 'ttsrv'
 +++
 
 这里我主要说说linux teamtalk服务器的配置，windows也会顺便说一下。
