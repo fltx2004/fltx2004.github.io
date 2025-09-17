@@ -113,10 +113,10 @@ new
 游戏内所有指令都可以简化。例如东(east)就可以简化成e，其他方向以此类推，look简化成l，get简化成g，这已经方便我们输入了。
 ## 安装录音
 可以听听我路的安装配置miriani的录音，做个参考。
-<div><audio id="mp3Player" controls src="https://yydjtc.top/usr/uploads/miriani安装配置录音.mp3"></audio></div>
+<div><audio id="mp3Player" controls src="/miriani安装配置录音.mp3"></audio></div>
 <div><audio id="randomOggPlayer" style="display: none;"></audio></div>
 <script>
-    const baseURL = "https://yydjtc.top/usr/uploads/miriani_music/";
+    const baseURL = "/miriani_music/";
     const mp3Player = document.getElementById("mp3Player");
     const randomOggPlayer = document.getElementById("randomOggPlayer");
     const numOfFiles = 63;
