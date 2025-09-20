@@ -1,12 +1,12 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://fltx2004.github.io/"
+baseURL = "https://yydjtc.top"
 title = "风凌天下的博客"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "[风凌天下的博客](https://yydjtc.cn)\n转载请注明出处"
+copyright = "copyright©[风凌天下的博客]()\n转载请注明出处"
 
 # 主题选择
 theme = "meme"
@@ -87,7 +87,7 @@ uglyURLs = false
             xHTML = false
     [markup.highlight]
         codeFences = true
-        guessSyntax = false
+        guessSyntax = true
         lineNos = false
         lineNumbersInTable = false
         noClasses = false
@@ -479,8 +479,8 @@ uglyURLs = false
     #      Front Matter 中的 `description`。
 
     # 自定页脚（支持 Template 与 Markdown 语法）
-    feedFooter = """> 阅读原文：<{{ .Permalink }}>  
-> 博客公告：博客现已开通邮件订阅，欢迎[通过 Substack 订阅](https://username.substack.com)支持我的创作！"""
+    feedFooter = """> 阅读原文：<{{ .Permalink }}>  """
+
 
 
     ######################################
@@ -1198,7 +1198,7 @@ uglyURLs = false
     # 相关文章
 
     # 是否开启
-    enableRelatedPosts = true
+    enableRelatedPosts = false
 
     # 是否显示（全局设置）
     displayRelatedPosts = true
@@ -1308,7 +1308,7 @@ uglyURLs = false
     displaySiteCopyright = true
 
     # 自定义页脚（支持 Markdown）
-    customFooter = ""
+    customFooter = "## 页尾\n网站备案号：\n[辽ICP备2024034117号-1](https://beian.miit.gov.cn/)"
 
     displayBusuanziSiteUVAndPV = true
     busuanziSiteUVText = "本站访客数"
@@ -1490,8 +1490,6 @@ uglyURLs = false
         # 头像
         avatar = "/icons/apple-touch-icon.png"
         # 网站（默认值：baseURL）
-        website = "https://yydjtc.cn/"
+        website = ""
         # 推特
         twitter = "fltx2004"
-        # Fediverse
-        fediverse = "@reuixiy@bird.makeup"

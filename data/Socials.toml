@@ -27,15 +27,15 @@
     weight = 3
 
 [[socials]]
-    id = "twitter"
-    url = "https://twitter.com/fltx2004"
-    icon = "twitter"
-    title = "Twitter"
-    weight = 4
-
-[[socials]]
     id = "telegram"
     url = "https://t.me/fltx2004"
     icon = "telegram"
     title = "Telegram"
+    weight = 4
+
+[[socials]]
+    id = "qq"
+    url = "tencent://message/?uin=627138477"
+    icon = "qq"
+    title = "qq"
     weight = 5
