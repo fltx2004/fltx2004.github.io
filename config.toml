@@ -6,7 +6,7 @@ title = "风凌天下的博客"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "[风凌天下的博客](https://yydjtc.cn)"
+copyright = "[风凌天下的博客](https://yydjtc.cn)\n转载请注明出处"
 
 # 主题选择
 theme = "meme"
