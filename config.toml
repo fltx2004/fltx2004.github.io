@@ -597,7 +597,7 @@ uglyURLs = false
     # 说明：仅在生产环境（production）下渲染
 
     # 是否开启（全局设置）
-    enableComments = false
+    enableComments = true
     # 说明：文章的 Front Matter 中的 `comments`
     #      的优先级高于此处
 
@@ -681,13 +681,13 @@ uglyURLs = false
     # 说明：https://github.com/gitalk/gitalk
 
     ## Giscus
-    enableGiscus = false
-    giscusRepo = "[ENTER repo/you/want HERE]"
-    giscusRepoId = "[ENTER REPO ID HERE]"
-    giscusCategory = "[ENTER CATEGORY NAME HERE]"
-    giscusCategoryId = "[ENTER CATEGORY ID HERE]"
+    enableGiscus = true
+    giscusRepo = "fltx2004/my-blog-comment-system"
+    giscusRepoId = "R_kgDOP0RnbQ"
+    giscusCategory = "Announcements"
+    giscusCategoryId = "DIC_kwDOP0Rnbc4Cvuch"
     giscusMapping = "pathname"
-    giscusStrict = false
+    giscusStrict = true
     giscusReactionsEnabled = true
     giscusEmitMetaData = false
     giscusInputPosition = "top"

@@ -29,7 +29,7 @@ Hugo是最受欢迎的开源静态站点生成器之一。凭借其惊人的速�
 
 在开发过程中使用 Hugo 的内置 Web 服务器，可即时查看内容、结构、行为和呈现方式的变更。
 
-项目地址:https://github.com/gohugoio/hugo/
+项目地址:[](https://github.com/gohugoio/hugo/)
 
 ## 为什么要使用hugo
 
