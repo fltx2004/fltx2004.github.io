@@ -1308,7 +1308,7 @@ uglyURLs = false
     displaySiteCopyright = true
 
     # 自定义页脚（支持 Markdown）
-    customFooter = "## 页尾\n网站备案号：\n[辽ICP备2024034117号-1](https://beian.miit.gov.cn/)"
+    customFooter = "## 页尾\n"
 
     displayBusuanziSiteUVAndPV = true
     busuanziSiteUVText = "本站访客数"
