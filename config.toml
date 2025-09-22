@@ -219,8 +219,8 @@ uglyURLs = false
         identifier = "lang-switcher"
     # [[menu.main]]
     #     weight = 8
-    #     identifier = "search"
-    #     post = "search"
+        # identifier = "search"
+        # post = "search"
 
 
 
