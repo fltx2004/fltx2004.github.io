@@ -1,0 +1,153 @@
+{{ if and (.Params.comments | default .Site.Params.enableComments) (eq hugo.Environment "production") }}
+    {{ if or (in .Site.Params.mainSections .Section) .Params.comments }}
+
+        {{ if not .Site.Params.autoLoadComments }}
+            <div class="load-comments">
+                <button id="load-comments" class="comment-btn">
+                    <span class="btn-icon">💬</span>
+                    {{ i18n "loadComments" }}
+                </button>
+            </div>
+        {{  end }}
+
+        {{ if .Site.Params.enableDisqus }}
+            <div id="disqus_thread"></div>
+        {{ end }}
+
+        {{ if .Site.Params.enableValine }}
+            <div id="vcomments"></div>
+        {{ end }}
+
+        {{ if .Site.Params.enableUtterances }}
+            <div id="utterances"></div>
+        {{ end }}
+
+        {{ if .Site.Params.enableGitalk }}
+            <div id="gitalk-container"></div>
+        {{ end }}
+
+        {{ if .Site.Params.enableGiscus }}
+            <div class="comments-container">
+                <div id="giscus"></div>
+            </div>
+        {{ end }}
+
+        {{ if .Site.Params.enableRemark42 }}
+          <div id="remark42"></div>
+        {{ end }}
+
+    {{ end }}
+{{ end }}
+
+<style>
+/* 评论按钮样式 */
+.comment-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 14px 28px;
+    background: linear-gradient(135deg, #3b82f6, #2563eb);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(59, 130, 246, 0.3);
+    margin: 20px 0;
+}
+
+.comment-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(59, 130, 246, 0.4);
+    background: linear-gradient(135deg, #2563eb, #1d4ed8);
+}
+
+.comment-btn:active {
+    transform: translateY(0);
+}
+
+.comment-btn.loading {
+    opacity: 0.8;
+    cursor: not-allowed;
+    background: linear-gradient(135deg, #9ca3af, #6b7280);
+}
+
+.btn-icon {
+    font-size: 1.2rem;
+}
+
+/* 评论容器样式 */
+.comments-container {
+    margin: 30px 0;
+    padding: 20px;
+    border-radius: 12px;
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* 加载动画 */
+.load-comments {
+    text-align: center;
+    margin: 30px 0;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .comment-btn {
+        padding: 12px 24px;
+        font-size: 1rem;
+    }
+    
+    .comments-container {
+        margin: 20px 0;
+        padding: 15px;
+    }
+}
+
+/* 暗色主题适配 */
+@media (prefers-color-scheme: dark) {
+    .comment-btn {
+        background: linear-gradient(135deg, #6366f1, #4f46e5);
+        box-shadow: 0 4px 6px rgba(99, 102, 241, 0.3);
+    }
+    
+    .comment-btn:hover {
+        background: linear-gradient(135deg, #4f46e5, #4338ca);
+        box-shadow: 0 6px 12px rgba(99, 102, 241, 0.4);
+    }
+    
+    .comments-container {
+        background: var(--card-bg-dark);
+        border-color: var(--border-color-dark);
+    }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const loadBtn = document.getElementById('load-comments');
+    
+    if (loadBtn) {
+        loadBtn.addEventListener('click', function() {
+            // 添加加载状态
+            this.classList.add('loading');
+            const originalText = this.innerHTML;
+            this.innerHTML = '<span class="btn-icon">⏳</span>加载中...';
+            
+            // 触发评论系统加载
+            // 对于Giscus等系统，它们通常会监听这个点击事件自动加载
+            // 如果需要手动触发，可以在这里添加相应代码
+            
+            // 3秒后恢复按钮（防止重复点击）
+            setTimeout(() => {
+                this.classList.remove('loading');
+                this.innerHTML = originalText;
+            }, 3000);
+        });
+    }
+});
+</script>
