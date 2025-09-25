@@ -465,7 +465,7 @@ uglyURLs = false
     # Atom & RSS
 
     # 是否包括全文内容
-    includeContent = true
+    includeContent = false
     # 说明：如果否，则只会包含文章的摘要。关于摘
     #      要，Hugo 能按你设置的字数限制自动截
     #      取，你也可以在文章中通过
@@ -1198,7 +1198,7 @@ uglyURLs = false
     # 相关文章
 
     # 是否开启
-    enableRelatedPosts = false
+    enableRelatedPosts = true
 
     # 是否显示（全局设置）
     displayRelatedPosts = true
@@ -1308,7 +1308,7 @@ uglyURLs = false
     displaySiteCopyright = true
 
     # 自定义页脚（支持 Markdown）
-    customFooter = "## 页尾\n"
+    customFooter = "---\n## 页尾\n"
 
     displayBusuanziSiteUVAndPV = true
     busuanziSiteUVText = "本站访客数"
