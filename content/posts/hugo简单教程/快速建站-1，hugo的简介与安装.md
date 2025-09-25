@@ -2,9 +2,9 @@
 date = '2025-09-20T15:05:57+08:00'
 draft = false
 title = '快速建站-1，hugo的简介与安装'
-categories = ['hugo简单教程']
-tags = ['hugo', 'MemE', '建站']
-slug = 'hugo-1'
+categories = ['快速建站教程']
+tags = ['hugo', 'MemE', '建站', 'linux', 'chocolaty', 'git']
+slug = 'Quick-website-building-1'
 +++
 
 ## 什么是hugo
@@ -51,7 +51,9 @@ hugo及其清亮，几乎只存储你的文章，你写几百上千篇文章也�
 
 ### 安装git
 
-虽然不安也行，但是为了文章和主题安装的时候方便，最好在电脑上安装[git](https://git-scm.com/)，可以通过它把将来使用的主题作为子模块添加进去，也方便文章的管理，回滚、增删、修改等。
+[git官网](https://git-scm.com/)
+
+可以通过它把将来使用的主题作为子模块添加进去，也方便文章的管理，回滚、增删、修改等。
 
 这里建议学一些git的基础教程，不用多，会添加、提交、回退、查看提交历史记录、子模块的添加和更新就够用了，也许将来我也会开一个简单git的使用教程，嗯，也许吧。
 

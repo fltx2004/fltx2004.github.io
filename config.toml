@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://yydjtc.top"
+baseURL = "https://yydjtc.top/"
 title = "风凌天下的博客"
 languageCode = "zh-CN"
 hasCJKLanguage = true
@@ -378,7 +378,7 @@ uglyURLs = false
     # 分类页面
 
     # 是否开启树状布局
-    enableTree = true
+    enableTree = false
     # 注意：如果你设置 categoryBy 为
     # `sections`，则无法关闭树状布局
 
@@ -425,7 +425,7 @@ uglyURLs = false
     # 说明：left（左边）或 right（右边）
 
     # 是否按月份分隔列表
-    groupByMonth = true
+    groupByMonth = false
 
     # 是否开启十二生肖
     chineseZodiac = true
@@ -873,7 +873,7 @@ uglyURLs = false
     #      的优先级高于此处
 
     # 是否链接文章的分节标题到目录
-    linkHeadingsToTOC = true
+    linkHeadingsToTOC = false
 
 
     ######################################
