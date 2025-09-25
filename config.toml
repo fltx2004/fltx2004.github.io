@@ -6,10 +6,12 @@ title = "风凌天下的博客"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "&[风凌天下的博客]()\n保留所有权利,转载请注明出处"
+copyright = "[风凌天下的博客]()All rights reserved."
 
 # 主题选择
 theme = "meme"
+
+timeZone = "Asia/Shanghai"
 
 # `hugo new` 新建文章自动打开的文本编辑器
 newContentEditor = ""
@@ -340,7 +342,7 @@ uglyURLs = false
     #      Open Graph、Atom、RSS
 
     # 站点的创建时间
-    siteCreatedTime = "2024-06-13T09:00:00+00:00"
+    siteCreatedTime = "2024-06-13T09:00:00+08:00"
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
@@ -378,7 +380,7 @@ uglyURLs = false
     # 分类页面
 
     # 是否开启树状布局
-    enableTree = true
+    enableTree = false
     # 注意：如果你设置 categoryBy 为
     # `sections`，则无法关闭树状布局
 
@@ -386,7 +388,7 @@ uglyURLs = false
     displayPosts = false
 
     # 是否显示每一分类下的文章数
-    displayPostsCount = true
+    displayPostsCount = false
 
     # 设置一个非负数来限制每一分类下展示的文章数
     limitPostsLimit = -1
@@ -396,7 +398,7 @@ uglyURLs = false
     # 标签页面
 
     # 是否开启标签云
-    enableTagCloud = true
+    enableTagCloud = false
     # 字号单位
     fontUnit = "em"
     # 最大字号
@@ -446,10 +448,10 @@ uglyURLs = false
     #      一个普通的类别列表页面。
 
     # 是否显示每一类别项下的文章数
-    displayTaxonomyTermCount = true
+    displayTaxonomyTermCount = false
 
     # 设置一个非负数来限制每一类别项下展示的文章数
-    limitEntriesLimit = -1
+    limitEntriesLimit = 0
 
 
     ######################################
@@ -805,7 +807,7 @@ uglyURLs = false
     #      首页布局有效
 
     # 日期格式
-    postMetaDateFormat = "2006.1.2"
+    postMetaDateFormat = "2006-01-02"
     # 注意：请遵循格式 https://gohugo.io/functions/format/
 
     # 是否显示发布时间
@@ -841,7 +843,7 @@ uglyURLs = false
     readingTimeIcon = "clock"
 
     # 是否显示不蒜子页面浏览量
-    displayBusuanziPagePV = false
+    displayBusuanziPagePV = true
     # 不蒜子页面浏览量的图标
     busuanziPagePVIcon = "eye"
     # 说明：仅在生产环境（production）下渲染
@@ -1299,7 +1301,7 @@ uglyURLs = false
     iconAnimation = true
 
     # 是否显示站点的作者名称
-    displaySiteAuthorName = true
+    displaySiteAuthorName = false
 
     # 是否显示 Hugo 和 MemE 的链接
     displayPoweredBy = false
