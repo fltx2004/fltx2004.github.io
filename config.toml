@@ -64,7 +64,7 @@ uglyURLs = false
 [pagination]
     disableAliases = false
     # 每一分页的文章数（仅对「文章摘要」首页布局有效）
-    pagerSize = 5
+    pagerSize = 10
     path = 'page'
 
 # Markdown 渲染器
