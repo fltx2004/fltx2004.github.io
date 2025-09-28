@@ -1,5 +1,5 @@
 +++
-date = '2024-06-8T15:31:29+08:00'
+date = '2024-06-08T15:31:29+08:00'
 draft = false
 title = '说说teamtalk服务器的安装'
  categories = ['经验分享']
