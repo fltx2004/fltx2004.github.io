@@ -1,5 +1,5 @@
 +++
-date = '2024-11-28T21:08:39+08:00'
+date = '2024-06-13T19:46:39+08:00'
 draft = false
 title = 'nvda远程服务器在linux的搭建'
 categories = ['经验分享']

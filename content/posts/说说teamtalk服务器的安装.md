@@ -1,5 +1,5 @@
 +++
-date = '2024-11-28T21:08:29+08:00'
+date = '2024-06-8T15:31:29+08:00'
 draft = false
 title = '说说teamtalk服务器的安装'
  categories = ['经验分享']
@@ -40,35 +40,21 @@ install nt service
 ，展开，点击UnTar/GZip，在点击确定即可。
 同样，解压开也是Client和Server两个文件夹，如果不需要客户端可以删掉，如果想更改server文件夹名字可以在文件夹按f2，修改即可，后面的配置的文件路径也自行修改成你自己的。
 在本教程中，我把tt共享文件存放在server里的files文件夹，所以我要进入server文件夹，按f7创建一个新文件夹，名称就叫files，如果你不想放在这里也可自行在后面修改。
-#### 赋予文件夹权限
-由于tt需要在teamtalk组和隶属于teamtalk组的同名用户下运行，所以创建用户组，
-可以用putty或者windows自带的ssh工具，这里已windows的ssh为例：假设服务器地址是123.456.789.0，win+r打开运行对话框，然后输入
-```cmd
-ssh root@123.456.789.0
-```
-，这只是用于默认22端口，如果你更改过ssh端口,假设改成了12345，就这样：
-```cmd
-ssh -p 12345 root@123.456.789.0
-```
-第一次连接可能会让确认指纹，输入
-yes
-即可，然后输入root账户密码，这里不会显示输入的字符，输入好了直接回车就行。
-然后开始添加用户和组了，输入
-```sh
+#### 默认安装：
+在解压的server文件夹，执行下面的命令：
+```SH
 groupadd teamtalk && useradd -g teamtalk teamtalk
+cp systemd/tt5server.service /etc/systemd/system && cp tt5srv /usr/bin
+chmod +x /usr/bin/tt5srv && chown teamtalk:teamtalk /usr/bin/tt5srv
+mkdir /etc/teamtalk && mkdir /var/log/teamtalk
+chown -R teamtalk:teamtalk /var/log/teamtalk /etc/teamtalk
+tt5srv -c /etc/teamtalk/tt5srv.xml -l /var/log/teamtalk/tt5srv.log -wizard
 ```
-这样就可以了。
-我们回到WinSCP，退回到server的上一级文件夹，也就是home，找到server，按f9，在确定的前面的编辑框，由
-0755
-改成
-0777
-，并选中后面的递归设置所有者、分组与权限，确定后面的两个编辑框，现在应该是root，都改成teamtalk，点击确定即可。
+这分别是创建teamtalk用户和组并把teamtalk用户赋予同名的组，创建配置和日志目录，复制ttsrv二进制文件至对应目录并赋予执行权限，复制系统服务文件方便用systemctl启动，让teamtalk记录日志的文件夹归属于teamtalk用户和组，如果有共享文件夹也要执行这个命令，
+```sh
+chown -R teamtalk:teamtalk: 共享文件文件夹路径
+```
 #### teamtalk配置修改
-##### 默认配置
-如果想遵循默认安装，那么把tt5srv复制到
-/usr/bin
-里面。
-##### 自定义配置
 进入server/systemd文件夹，编辑tt5server.service，把
 ExecStart=/usr/bin/tt5srv -nd -c /etc/teamtalk/tt5srv.xml -l /var/log/teamtalk/tt5srv.log
 改成
@@ -80,11 +66,7 @@ ExecStart=/home/server/tt5srv -nd -c /home/tt5srv.xml -l /home/server/tt5srv.log
 后面的是日志文件，
 -c
 后面的是配置文件。
-如果不想都放在server文件夹，也可以不修改
--c
-和
--l
-后面的路径。
+不过改好了要有对应目录，否则会报错
 然后把systemd里面的
 tt5server.service
 复制到
@@ -93,14 +75,10 @@ tt5server.service
 ### 运行tt服务器配置向导
 执行
 ```sh
-/home/server/tt5srv -wd /home/server -c /home/server/tt5srv.xml -l /home/server/tt5srv.log -wizard -nd
+/home/server/tt5srv -c /home/server/tt5srv.xml -l /home/server/tt5srv.log -wizard
 ```
-，这里如果tt服务器文件位置不同，也自行修改。
-这样就会弹出和windows一样的设置向导了，都可以用翻译看明白，注意如果启用了文件共享，就要在路径里输入
-```path
-/home/server/files
-```
-，同理，如果你共享文件放的位置与我不同，也自行改成你的路径。
+，这里如果tt服务器、日志和配置文件位置不同，也自行修改。
+这样就会弹出和windows一样的设置向导了，都可以用翻译看明白，注意如果启用了文件共享，就要在路径里输入对应路径。
 ### 设置tt服务器开机自启动
 命令行输入
 ```sh
