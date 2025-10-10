@@ -214,13 +214,18 @@ uglyURLs = false
         pre = "internal"
         post = "user-circle"
     [[menu.main]]
+        pageref = "/remote-server/"
+        name = "本站提供的远程服务"
         weight = 6
-        identifier = "theme-switcher"
+        pre = "external"
     [[menu.main]]
         weight = 7
+        identifier = "theme-switcher"
+    [[menu.main]]
+        weight = 8
         identifier = "lang-switcher"
     # [[menu.main]]
-    #     weight = 8
+    #     weight = 9
         # identifier = "search"
         # post = "search"
 
