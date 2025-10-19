@@ -241,8 +241,8 @@ systemctl daemon-reload && systemctl enable check-cert-update.timer && systemctl
 ## 文件下载
 若无法直接下载可从网盘进行下载。
 ### nvda远程服务器一键安装脚本
-[本地下载我整理好的nrs一件安装脚本](https://yydjtc.top/download/nrs.tgz)
+[本地下载我整理好的nrs一件安装脚本](/download/nrs.tgz)
 [123网盘下载我整理好的nrs一件安装脚本](https://www.123pan.com/s/egE9-Rr1Jv.html)
 ### 证书自动监控一件安装脚本
-[本地下载证书监控一件安装脚本](https://yydjtc.top/download/check-cert-update.tgz)
+[本地下载证书监控一件安装脚本](/download/check-cert-update.tgz)
 [123云盘下载证书监控一键安装脚本](https://www.123pan.com/s/egE9-G81Jv.html)
