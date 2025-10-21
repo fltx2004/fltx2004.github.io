@@ -219,13 +219,18 @@ uglyURLs = false
         weight = 6
         pre = "external"
     [[menu.main]]
+        pageref = "/baimiao-pdf"
+        name = "白描PDF"
         weight = 7
-        identifier = "theme-switcher"
+        pre = "external"
     [[menu.main]]
         weight = 8
+        identifier = "theme-switcher"
+    [[menu.main]]
+        weight = 9
         identifier = "lang-switcher"
     # [[menu.main]]
-    #     weight = 9
+    #     weight = 10
         # identifier = "search"
         # post = "search"
 

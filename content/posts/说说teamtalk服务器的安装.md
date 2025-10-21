@@ -33,13 +33,13 @@ install nt service
 #### 安装WinSCP
 方便新手，可以用[WinSCP](https://winscp.net/eng/downloads.php)，很好的图形化文件管理软件，
 安装好了打开，新建站点这里，后面就有可填写的选项了，文件协议选择SCP，后面的主机地址、端口、用户名和密码自行填写，在保存的地方可以展开选择保存，里面可以选择创建桌面快捷方式、保存密码等，自行按需选择。
-#### 复制解压tt安装文件
+#### #### 复制解压tt安装文件
 连接好了之后，复制下载回来的tgz文件，放到一个你喜欢的地方，比如我放到了home里，你问怎么复制？就像资源管理器一样的操作，复制粘贴。
 复制好了，在tt压缩包右键选择
 文件自定义命令
 ，展开，点击UnTar/GZip，在点击确定即可。
-同样，解压开也是Client和Server两个文件夹，如果不需要客户端可以删掉，如果想更改server文件夹名字可以在文件夹按f2，修改即可，后面的配置的文件路径也自行修改成你自己的。
-在本教程中，我把tt共享文件存放在server里的files文件夹，所以我要进入server文件夹，按f7创建一个新文件夹，名称就叫files，如果你不想放在这里也可自行在后面修改。
+同样，解压开也是Client和Server两个文件夹，如果不需要客户端可以删掉。
+
 #### 默认安装：
 在解压的server文件夹，执行下面的命令：
 ```SH
@@ -47,14 +47,17 @@ groupadd teamtalk && useradd -g teamtalk teamtalk
 cp systemd/tt5server.service /etc/systemd/system && cp tt5srv /usr/bin
 chmod +x /usr/bin/tt5srv && chown teamtalk:teamtalk /usr/bin/tt5srv
 mkdir /etc/teamtalk && mkdir /var/log/teamtalk
-chown -R teamtalk:teamtalk /var/log/teamtalk /etc/teamtalk
 tt5srv -c /etc/teamtalk/tt5srv.xml -l /var/log/teamtalk/tt5srv.log -wizard
+chown -R teamtalk:teamtalk /var/log/teamtalk /etc/teamtalk
 ```
 这分别是创建teamtalk用户和组并把teamtalk用户赋予同名的组，创建配置和日志目录，复制ttsrv二进制文件至对应目录并赋予执行权限，复制系统服务文件方便用systemctl启动，让teamtalk记录日志的文件夹归属于teamtalk用户和组，如果有共享文件夹也要执行这个命令，
 ```sh
 chown -R teamtalk:teamtalk: 共享文件文件夹路径
 ```
-#### teamtalk配置修改
+
+#### 自定义安装
+
+##### teamtalk配置修改
 进入server/systemd文件夹，编辑tt5server.service，把
 ExecStart=/usr/bin/tt5srv -nd -c /etc/teamtalk/tt5srv.xml -l /var/log/teamtalk/tt5srv.log
 改成
