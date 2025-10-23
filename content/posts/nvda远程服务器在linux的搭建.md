@@ -6,6 +6,7 @@ categories = ['经验分享']
 tags = ['linux', 'nvda']
 slug = 'nrs'
 +++
+
 今天来说说NVDA远程服务器在linux的搭建，windows自行看说明研究。
 主要是针对debian、ubuntu等系统，centOS的大同小异。
 ## 学习之前
@@ -15,17 +16,20 @@ slug = 'nrs'
 - 魔法{非必须}
 ## 获取文件
 可以从[NVDARemoteServer的release页面](https://github.com/tech10/nvdaRemoteServer/releases/latest/)找到最新版本的文件，通常，linux64位的就下载[nvdaRemoteServer_linux_amd64.tar.gz](https://github.com/tech10/nvdaRemoteServer/releases/latest/download/nvdaRemoteServer_linux_amd64.tar.gz)，32位就下载386的，arm处理器的就选择带arm的，这里不再赘述。
-如只是想安装，不想要那么多自定义功能，或者只想直接使用，下载困难，可从文末下载。
+如只是想安装，不想要那么多自定义功能，或者只想直接使用，下载困难，可看对于小白用户一节。
 ## 解压相关文件并赋予权限
 我们仍使用[WinSCP](https://winscp.net/eng/download.php)进行相关操作。
 ### 对于小白用户
-从文墨下载我的两个安装脚本，把nrs.tgz复制到vps的home文件夹，在命令行中输入
+首先使用root用户登录服务器，直接在命令行输入
 ```sh
+cd /home
+wget https://yydjtc.top/download/nrs.tgz
 tar -xzvf nrs.tgz && cd nrs && chmod +x install.sh && ./install.sh
 ```
 这样就安装完成了，运行脚本的时候要输入证书和私钥的绝对路径，如果无证书文件可直接留空。
-把check-cert-update.tgz复制到任意位置，然后执行命令
+安装证书监控（可选）
 ```sh
+wget https://fltxdbk.yydjtc.cn/download/check-cert-update.tgz
 tar -xzvf check-cert-update.tgz && cd check-cert-update && chmod +x install.sh && ./install.sh
 ```
 同样，输入证书的绝对路径，即可配置完成。

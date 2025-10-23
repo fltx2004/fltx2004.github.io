@@ -6,7 +6,7 @@ title = "风凌天下的博客"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "[风凌天下的博客](https://yydjtc.top/)All rights reserved."
+copyright = "[风凌天下的博客]()All rights reserved."
 
 # 主题选择
 theme = "meme"
@@ -1320,7 +1320,7 @@ uglyURLs = false
     displaySiteCopyright = true
 
     # 自定义页脚（支持 Markdown）
-    customFooter = "---\n## 页尾\n"
+    customFooter = "---\n## 页尾"
 
     displayBusuanziSiteUVAndPV = true
     busuanziSiteUVText = "本站访客数"
