@@ -208,21 +208,21 @@ uglyURLs = false
         pre = "internal"
         post = "tags"
     [[menu.main]]
-        pageref = "/about/"
-        name = "关于"
-        weight = 5
-        pre = "internal"
-        post = "user-circle"
-    [[menu.main]]
         pageref = "/remote-server/"
         name = "本站提供的远程服务"
-        weight = 6
+        weight = 5
         pre = "external"
     [[menu.main]]
         pageref = "/baimiao-pdf"
         name = "白描PDF"
+        weight = 6
+        pre = "external"
+    [[menu.main]]
+        pageref = "/about/"
+        name = "关于"
         weight = 7
         pre = "external"
+        post = "user-circle"
     [[menu.main]]
         weight = 8
         identifier = "theme-switcher"
@@ -491,8 +491,11 @@ uglyURLs = false
     #      Front Matter 中的 `description`。
 
     # 自定页脚（支持 Template 与 Markdown 语法）
-    feedFooter = """> 阅读原文：<{{ .Permalink }}>  """
-
+    feedFooter = """
+> 阅读原文：[{{ .Title }}]({{ .Permalink }})
+> 
+> **版权声明**：本文采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议，转载请注明来自[{{ .Site.Title }}]({{ .Site.BaseURL }})
+"""
 
 
     ######################################
@@ -1320,7 +1323,7 @@ uglyURLs = false
     displaySiteCopyright = true
 
     # 自定义页脚（支持 Markdown）
-    customFooter = "---\n## 页尾"
+    customFooter = "---\n## 友情链接\n[贾某人的blog](https://jyhblog.xyz/)\n[白描PDF](https://pdf.baimiaoapp.com/)\n---\n## 页尾"
 
     displayBusuanziSiteUVAndPV = true
     busuanziSiteUVText = "本站访客数"
