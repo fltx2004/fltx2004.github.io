@@ -14,7 +14,7 @@ theme = "meme"
 timeZone = "Asia/Shanghai"
 
 # `hugo new` 新建文章自动打开的文本编辑器
-newContentEditor = ""
+newContentEditor = "notepad++"
 
 # i18n
 defaultContentLanguage = "zh-cn"
@@ -846,12 +846,12 @@ uglyURLs = false
     categoryDelimiter = "/"
 
     # 是否显示字数统计
-    displayWordCount = false
+    displayWordCount = true
     # 字数统计的图标
     wordCountIcon = "pencil-alt"
 
     # 是否显示阅读时长
-    displayReadingTime = false
+    displayReadingTime = true
     # 阅读时长的图标
     readingTimeIcon = "clock"
 
@@ -1323,7 +1323,8 @@ uglyURLs = false
     displaySiteCopyright = true
 
     # 自定义页脚（支持 Markdown）
-    customFooter = "---\n## 友情链接\n[贾某人的blog](https://jyhblog.xyz/)\n[白描PDF](https://pdf.baimiaoapp.com/)\n---\n## 页尾"
+    customFooter = "---\n## 友情链接\n- [贾某人的blog](https://jyhblog.xyz/)\n- [白描PDF](https://pdf.baimiaoapp.com/ \"功能强大的在线文档转换工具\")\n---\n## 页尾"
+
 
     displayBusuanziSiteUVAndPV = true
     busuanziSiteUVText = "本站访客数"
@@ -1508,3 +1509,15 @@ uglyURLs = false
         website = ""
         # 推特
         twitter = "fltx2004"
+
+[security]
+  enableInlineShortcodes = false
+  [security.exec]
+    allow = ['akelpad', 'notepad', 'notepad\+\+$', '^(dart-)?sass(-embedded)?$', '^go$', '^npx$', '^postcss$']
+    osEnv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+|(XDG_CONFIG_)?HOME|USERPROFILE|SSH_AUTH_SOCK|DISPLAY|LANG|SYSTEMDRIVE|PROGRAMDATA)$']
+
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$']
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
