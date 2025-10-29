@@ -1,46 +1,80 @@
 {{ if and (.Params.comments | default .Site.Params.enableComments) (eq hugo.Environment "production") }}
     {{ if or (in .Site.Params.mainSections .Section) .Params.comments }}
+        <div class="comments-section">
+            <h2 class="comments-title">评论</h2>
+            
+            {{ if not .Site.Params.autoLoadComments }}
+                <div class="load-comments">
+                    <button id="load-comments" class="comment-btn">
+                        <span class="btn-icon">💬</span>
+                        {{ i18n "loadComments" }}
+                    </button>
+                </div>
+            {{ end }}
 
-        {{ if not .Site.Params.autoLoadComments }}
-            <div class="load-comments">
-                <button id="load-comments" class="comment-btn">
-                    <span class="btn-icon">💬</span>
-                    {{ i18n "loadComments" }}
-                </button>
-            </div>
-        {{  end }}
+            {{ if .Site.Params.enableDisqus }}
+                <div id="disqus_thread" class="comments-container"></div>
+            {{ end }}
 
-        {{ if .Site.Params.enableDisqus }}
-            <div id="disqus_thread"></div>
-        {{ end }}
+            {{ if .Site.Params.enableValine }}
+                <div id="vcomments" class="comments-container"></div>
+            {{ end }}
 
-        {{ if .Site.Params.enableValine }}
-            <div id="vcomments"></div>
-        {{ end }}
+            {{ if .Site.Params.enableUtterances }}
+                <div id="utterances" class="comments-container"></div>
+            {{ end }}
 
-        {{ if .Site.Params.enableUtterances }}
-            <div id="utterances"></div>
-        {{ end }}
+            {{ if .Site.Params.enableGitalk }}
+                <div id="gitalk-container" class="comments-container"></div>
+            {{ end }}
 
-        {{ if .Site.Params.enableGitalk }}
-            <div id="gitalk-container"></div>
-        {{ end }}
+            {{ if .Site.Params.enableGiscus }}
+                <div class="comments-container">
+                    <div id="giscus"></div>
+                </div>
+            {{ end }}
 
-        {{ if .Site.Params.enableGiscus }}
-            <div class="comments-container">
-                <div id="giscus"></div>
-            </div>
-        {{ end }}
-
-        {{ if .Site.Params.enableRemark42 }}
-          <div id="remark42"></div>
-        {{ end }}
-
+            {{ if .Site.Params.enableRemark42 }}
+                <div id="remark42" class="comments-container"></div>
+            {{ end }}
+        </div>
     {{ end }}
 {{ end }}
 
 <style>
+/* 评论区域整体样式 */
+.comments-section {
+    margin: 40px 0;
+    padding: 0;
+}
+
+/* 评论标题样式 */
+.comments-title {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--heading-color, #1f2937);
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--border-color, #e5e7eb);
+    position: relative;
+}
+
+.comments-title::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 60px;
+    height: 2px;
+    background: linear-gradient(135deg, #3b82f6, #2563eb);
+}
+
 /* 评论按钮样式 */
+.load-comments {
+    text-align: center;
+    margin: 30px 0;
+}
+
 .comment-btn {
     display: inline-flex;
     align-items: center;
@@ -84,19 +118,35 @@
     margin: 30px 0;
     padding: 20px;
     border-radius: 12px;
-    background: var(--card-bg);
-    border: 1px solid var(--border-color);
+    background: var(--card-bg, #ffffff);
+    border: 1px solid var(--border-color, #e5e7eb);
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 0.5s ease-out;
 }
 
-/* 加载动画 */
-.load-comments {
-    text-align: center;
-    margin: 30px 0;
+/* 淡入动画 */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 /* 响应式设计 */
 @media (max-width: 768px) {
+    .comments-section {
+        margin: 30px 0;
+    }
+    
+    .comments-title {
+        font-size: 1.5rem;
+        margin-bottom: 20px;
+    }
+    
     .comment-btn {
         padding: 12px 24px;
         font-size: 1rem;
@@ -110,6 +160,11 @@
 
 /* 暗色主题适配 */
 @media (prefers-color-scheme: dark) {
+    .comments-title {
+        color: var(--heading-color-dark, #f9fafb);
+        border-bottom-color: var(--border-color-dark, #374151);
+    }
+    
     .comment-btn {
         background: linear-gradient(135deg, #6366f1, #4f46e5);
         box-shadow: 0 4px 6px rgba(99, 102, 241, 0.3);
@@ -121,8 +176,8 @@
     }
     
     .comments-container {
-        background: var(--card-bg-dark);
-        border-color: var(--border-color-dark);
+        background: var(--card-bg-dark, #1f2937);
+        border-color: var(--border-color-dark, #374151);
     }
 }
 </style>
