@@ -218,19 +218,24 @@ uglyURLs = false
         weight = 6
         pre = "external"
     [[menu.main]]
+        pageref = "/friendship-links"
+        name = "友链交换"
+        weight = 7
+        pre = "external"
+    [[menu.main]]
         pageref = "/about/"
         name = "关于"
-        weight = 7
+        weight = 8
         pre = "external"
         post = "user-circle"
     [[menu.main]]
-        weight = 8
+        weight = 9
         identifier = "theme-switcher"
     [[menu.main]]
-        weight = 9
+        weight = 10
         identifier = "lang-switcher"
     # [[menu.main]]
-    #     weight = 10
+    #     weight = 11
         # identifier = "search"
         # post = "search"
 
@@ -1323,7 +1328,7 @@ uglyURLs = false
     displaySiteCopyright = true
 
     # 自定义页脚（支持 Markdown）
-    customFooter = "---\n## 友情链接\n- [贾某人的blog](https://jyhblog.xyz/)\n- [白描PDF](https://pdf.baimiaoapp.com/ \"功能强大的在线文档转换工具\")\n---\n## 页尾"
+    customFooter = "---\n## 友情链接\n- [贾某人的blog](https://jyhblog.xyz/)\n- [白描PDF](https://pdf.baimiaoapp.com/ \"功能强大的在线文档转换工具\")\n- [一米阳光·晴天博客](https://www.qt06.com/)\n- [小羔羊分享站](https://lamb.tw/)\n---\n## 页尾"
 
 
     displayBusuanziSiteUVAndPV = true
