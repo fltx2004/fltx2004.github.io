@@ -7,6 +7,18 @@ tags = ['hugo', 'MemE', '建站', 'linux', 'chocolaty', 'git']
 slug = 'Quick-website-building-1'
 +++
 
+今天我们来讲一下如何快速让你的网站上线，几乎一切都在电脑上搞定，你只专注于写作就可以了，对服务器来说不需要任何依赖，即使配置非常低的服务器也能轻松跑起来。
+
+## 你需要
+
+- 基础电脑操作能力
+
+- 对命令行不恐惧
+
+- 能举一反三
+
+我们将使用**hugo**做一个纯静态的网站。
+
 ## 什么是hugo
 
 - 世界上最快的网站构建框架
@@ -41,13 +53,13 @@ hugo及其清亮，几乎只存储你的文章，你写几百上千篇文章也�
 
 - 快速
 
-即使文章很多，也可以在几毫秒到几百毫秒内直接生成。
+即使文章很多，也可以在几百毫秒内直接生成。
 
 - 写作方便
 
 不需要登录博客后台去慢慢写，直接在电脑上写博客，告别各种网站魔板无障碍参差不齐的后台。
 
-## hugo的安装
+## 安装前的准备
 
 ### 安装git
 
@@ -57,7 +69,9 @@ hugo及其清亮，几乎只存储你的文章，你写几百上千篇文章也�
 
 这里建议学一些git的基础教程，不用多，会添加、提交、回退、查看提交历史记录、子模块的添加和更新就够用了，也许将来我也会开一个简单git的使用教程，嗯，也许吧。
 
-不会也可以问AI，它会是你最好的老师。
+你也可以听一下晴天老师的web编程入门，有基本的git操作，[点此收听git的安装](https://vbus.cc/src/2273)
+
+实在不会也可以问AI，它会是你最好的老师。
 
 #### windows
 
@@ -113,7 +127,7 @@ apt install git
 brew install git
 ```
 
-### 安装hugo
+## 安装hugo
 
 这里就不建议从github下载可执行文件安装了，因为麻烦，下载回来还要给它搞环境变量，直接放包管理器的了哈。
 
@@ -143,13 +157,13 @@ winget install Hugo.Hugo.Extended
 
 ##### 第三方包管理器
 
-###### snap
+- snap
 
 ```
 snap install hugo
 ```
 
-###### Homebrew
+- Homebrew
 
 同时也适用于MacOS。
 
@@ -159,13 +173,13 @@ brew install hugo
 
 ##### linux官方存储库
 
-###### Alpine Linux
+- Alpine Linux
 
 ```
 doas apk add --no-cache --repository=https://dl-cdn.alpinelinux.org/alpine/edge/community hugo
 ```
 
-###### Arch Linux
+- Arch Linux
 
 也同时包括Arch Linux的衍生版：EndeavourOS、Garuda Linux、Manjaro等。
 
@@ -173,7 +187,7 @@ doas apk add --no-cache --repository=https://dl-cdn.alpinelinux.org/alpine/edge/
 pacman -S hugo
 ```
 
-###### Debian
+- Debian
 
 也包括它的衍生版：elementary OS、KDE neon、Linux Lite、Linux Mint、Pop!_OS、Ubuntu、Zorin OS等
 
@@ -181,7 +195,7 @@ pacman -S hugo
 apt install hugo
 ```
 
-##### 其他系统
+- 其他系统
 
 不再赘述，具体可查看[hugo文档](https://gohugo.io/installation/linux/)。
 
