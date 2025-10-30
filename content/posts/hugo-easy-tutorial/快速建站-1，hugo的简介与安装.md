@@ -141,7 +141,49 @@ winget install Hugo.Hugo.Extended
 
 #### linux
 
-不多说了，直接根据版本不同包管理器的不同命令也不同，软件包名字都叫hugo,自行变通吧。具体也可以看一下[官方文档](https://gohugo.io/installation/linux/)
+##### 第三方包管理器
+
+###### snap
+
+```
+snap install hugo
+```
+
+###### Homebrew
+
+同时也适用于MacOS。
+
+```
+brew install hugo
+```
+
+##### linux官方存储库
+
+###### Alpine Linux
+
+```
+doas apk add --no-cache --repository=https://dl-cdn.alpinelinux.org/alpine/edge/community hugo
+```
+
+###### Arch Linux
+
+也同时包括Arch Linux的衍生版：EndeavourOS、Garuda Linux、Manjaro等。
+
+```
+pacman -S hugo
+```
+
+###### Debian
+
+也包括它的衍生版：elementary OS、KDE neon、Linux Lite、Linux Mint、Pop!_OS、Ubuntu、Zorin OS等
+
+```
+apt install hugo
+```
+
+##### 其他系统
+
+不再赘述，具体可查看[hugo文档](https://gohugo.io/installation/linux/)。
 
 ## 结语
 
