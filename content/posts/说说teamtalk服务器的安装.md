@@ -12,7 +12,7 @@ slug = 'ttsrv'
 首先要下载Teamtalk，可以从[bearware](https://bearware.dk/?page_id=353)下载。
 带Portable的是windows的绿色版，
 .pkg的是mac版，
-linux中，debian和ubuntu用后面带ubuntu的，cent用后面是centos的。
+linux中，debian和ubuntu用后面带ubuntu的，cent用后面是centos的。注意，debian12要用ubuntu22的版本。
 ## 安装teamtalk：
 ### windows
 #### 便携版
@@ -43,12 +43,13 @@ install nt service
 #### 默认安装：
 在解压的server文件夹，执行下面的命令：
 ```SH
-groupadd teamtalk && useradd -g teamtalk teamtalk
+useradd -s /sbin/nologin teamtalk
 cp systemd/tt5server.service /etc/systemd/system && cp tt5srv /usr/bin
 chmod +x /usr/bin/tt5srv && chown teamtalk:teamtalk /usr/bin/tt5srv
 mkdir /etc/teamtalk && mkdir /var/log/teamtalk
 tt5srv -c /etc/teamtalk/tt5srv.xml -l /var/log/teamtalk/tt5srv.log -wizard
 chown -R teamtalk:teamtalk /var/log/teamtalk /etc/teamtalk
+chmod -R 0770 /etc/teamtalk
 ```
 这分别是创建teamtalk用户和组并把teamtalk用户赋予同名的组，创建配置和日志目录，复制ttsrv二进制文件至对应目录并赋予执行权限，复制系统服务文件方便用systemctl启动，让teamtalk记录日志的文件夹归属于teamtalk用户和组，如果有共享文件夹也要执行这个命令，
 ```sh
@@ -58,7 +59,7 @@ chown -R teamtalk:teamtalk: 共享文件文件夹路径
 #### 自定义安装
 
 ##### teamtalk配置修改
-进入server/systemd文件夹，编辑tt5server.service，把
+我把tt放在了`home`里面，并把日志和配置都放在了同文件夹，进入server/systemd文件夹，编辑tt5server.service，把
 ExecStart=/usr/bin/tt5srv -nd -c /etc/teamtalk/tt5srv.xml -l /var/log/teamtalk/tt5srv.log
 改成
 ```ini
