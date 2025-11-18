@@ -9,33 +9,33 @@
     id = "rss"
     url = "/rss.xml"
     icon = "rss"
-    title = "RSS"
+    title = "📥 RSS"
     weight = 1
 
 [[socials]]
     id = "email"
     url = "mailto:qyb@yydjtc.cn"
     icon = "envelope"
-    title = "Email"
+    title = "📧 Email"
     weight = 2
 
 [[socials]]
     id = "github"
     url = "https://github.com/fltx2004"
     icon = "github"
-    title = "GitHub"
+    title = "💻 GitHub"
     weight = 3
 
 [[socials]]
     id = "telegram"
     url = "https://t.me/fltx2004"
     icon = "telegram"
-    title = "Telegram"
+    title = "✈ Telegram"
     weight = 4
 
 [[socials]]
     id = "qq"
     url = "tencent://message/?uin=627138477"
     icon = "qq"
-    title = "qq"
+    title = "🐧 QQ"
     weight = 5
