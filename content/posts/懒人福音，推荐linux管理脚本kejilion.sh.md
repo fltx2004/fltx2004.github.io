@@ -53,7 +53,7 @@ BBR加速、WARP管理、性能测试，应有尽有
 
 直接命令行粘贴以下命令
 
-···bash
+```bash
 bash <(curl -sL kejilion.sh)
 ```
 
