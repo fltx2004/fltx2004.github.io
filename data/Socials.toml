@@ -39,3 +39,10 @@
     icon = "qq"
     title = "🐧 QQ"
     weight = 5
+
+[[socials]]
+    id = "mastodon"
+    url = "https://mastodon.social/@fltx2004"
+    icon = "mastodon"
+    title = "🦣 mastodon"
+    weight = 6
