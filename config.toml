@@ -268,7 +268,7 @@ uglyURLs = false
     # 说明：居中布局（center）或弹性布局（flex）
 
     # 在窄视图下隐藏菜单栏并显示一个按钮？
-    enableNavToggle = true
+    enableNavToggle = false
 
     navHeight = "10em"
     # 说明：菜单栏展开时的高度
