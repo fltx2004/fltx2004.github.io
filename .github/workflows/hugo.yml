@@ -41,12 +41,9 @@ jobs:
       
       - name: Install Hugo
         run: |
-          sudo apt-get update
-          sudo apt-get install -y wget gnupg
-          wget -q -O - https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_*_linux-amd64.deb.sha256
-          wget https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_*_linux-amd64.deb
-          sudo dpkg -i hugo_extended_*_linux-amd64.deb
-          hugo version
+          HUGO_VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/')
+          wget "https://github.com/gohugoio/hugo/releases/download/${HUGO_VERSION}/hugo_extended_${HUGO_VERSION#v}_linux-amd64.deb"
+          sudo dpkg -i "hugo_extended_${HUGO_VERSION#v}_linux-amd64.deb"
       
       - name: Install Dart Sass
         run: sudo snap install dart-sass
