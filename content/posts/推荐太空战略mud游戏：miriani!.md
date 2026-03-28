@@ -86,7 +86,7 @@ LEInstaller.exe
 管理员身份运行建议勾选
 ，在tab，找到建立快捷方式空格，在tab找保存空格。快捷方式会生成到桌面，你也可以把这个快捷方式重命名，这快捷方式有啥用呢，这个快捷方式的用处就是以后在运行VIPMud 的时候会自动通过语言模拟器模拟 英语语言环境运行，以免每次运行VIPMud都要在右键菜单中找已此程序配置运行。
 ### 下载miriani声音包
-可以从[miriani的dropbox页面](https://www.dropbox.com/sh/q6xtsxcyjz4t8dd/AACih96CNTVU9xKB8Qr6XfGba?dl=0)下载它的声音包，如果无法下载，还可以[点此本地下载](https://www.yydjtc.top/download/Miriani%20Soundpack%20for%20VIP%20Mud%20Download%20Folder.zip)或[123云盘下载](https://www.123pan.com/s/egE9-Q91Jv.html)
+可以从[miriani的dropbox页面](https://www.dropbox.com/sh/q6xtsxcyjz4t8dd/AACih96CNTVU9xKB8Qr6XfGba?dl=0)下载它的声音包，如果无法下载，还可以[点此本地下载](https://download.yydjtc.top/d/drive/Miriani%20Soundpack%20Download%20Folder.zip?sign=QkeZlRki7MsxrN82sm3Ks7ySKovI5IKbacFUZXtSPJA=:0)
 注意，dropbox页面能保持最新，本地下载和云盘下载无法保证一直是最新版本的。
 ### 输入连接信息
 打开之后，你就会发现，你的sapi语音开始说话了，会有个yes no的按钮，这意思就是没有VIPMud文件夹，是否创建，我们当然创建，如果你点了yes之后提示错误，最大的可能性就是你的用户是中文名字，这里无法读取，所以才报错
