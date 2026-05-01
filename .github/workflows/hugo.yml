@@ -46,7 +46,7 @@ jobs:
           sudo dpkg -i "hugo_extended_${HUGO_VERSION#v}_linux-amd64.deb"
       
       - name: Install Dart Sass
-        run: sudo snap install dart-sass
+        run:           npm install -g sass
       
       - name: Setup Pages
         id: pages
