@@ -3,7 +3,7 @@
 
 baseURL = "https://yydjtc.top/"
 title = "风凌天下的博客"
-languageCode = "zh-CN"
+locale = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
 copyright = "[风凌天下的博客]()All rights reserved."
