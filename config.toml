@@ -223,19 +223,24 @@ uglyURLs = false
         weight = 7
         pre = "external"
     [[menu.main]]
+        pageref = "/sponsors"
+        name = "🧋请我喝杯奶茶"
+        weight = 8
+        pre = "external"
+    [[menu.main]]
         pageref = "/about/"
         name = "关于"
-        weight = 8
+        weight = 9
         pre = "external"
         post = "user-circle"
     [[menu.main]]
-        weight = 9
+        weight = 10
         identifier = "theme-switcher"
     [[menu.main]]
-        weight = 10
+        weight = 11
         identifier = "lang-switcher"
     # [[menu.main]]
-    #     weight = 11
+    #     weight = 12
         # identifier = "search"
         # post = "search"
 
