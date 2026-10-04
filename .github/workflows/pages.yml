@@ -1,0 +1,96 @@
+name: Deploy Hugo artifact to Pages
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - '.github/pages-build.json'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+    inputs:
+      run_id:
+        description: "Private my-blog build run ID; leave empty for the latest deployment request"
+        type: string
+        required: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      pages: read
+    steps:
+      - name: Checkout deployment request
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: Select private build artifact
+        id: site
+        env:
+          REQUESTED_RUN_ID: ${{ inputs.run_id }}
+          BLOG_ARTIFACT_TOKEN: ${{ secrets.BLOG_ARTIFACT_TOKEN }}
+        run: |
+          if [[ -z "$BLOG_ARTIFACT_TOKEN" ]]; then
+            echo 'Configure BLOG_ARTIFACT_TOKEN with Actions read access to my-blog.' >&2
+            exit 1
+          fi
+          RUN_ID="$REQUESTED_RUN_ID"
+          if [[ -z "$RUN_ID" ]]; then
+            RUN_ID=$(jq --exit-status --raw-output '.run_id | tostring' .github/pages-build.json)
+          fi
+          [[ "$RUN_ID" =~ ^[0-9]+$ ]]
+          echo "run_id=$RUN_ID" >> "$GITHUB_OUTPUT"
+
+      - name: Download private build artifact
+        uses: actions/download-artifact@v6
+        with:
+          github-token: ${{ secrets.BLOG_ARTIFACT_TOKEN }}
+          repository: fltx2004/my-blog
+          run-id: ${{ steps.site.outputs.run_id }}
+          name: github-pages
+          path: _artifact
+
+      - name: Unpack generated site
+        run: |
+          mkdir -p public
+          tar --extract --file _artifact/artifact.tar --directory public
+          test -s public/index.html
+          test ! -e public/.git
+          test ! -e public/.github
+          test ! -e public/config.toml
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ./public
+
+  deploy:
+    needs: upload
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
